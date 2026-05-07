@@ -495,7 +495,7 @@ This project also improved practical understanding of how AI systems are integra
 
 ---
 
-## **🚀 T. uture Improvements**
+## **🚀 T. Future Improvements**
 
 
 ☁️ Cloud Deployment.
