@@ -1,0 +1,26 @@
+area_sqft,bedrooms,bathrooms,property_age,parking_slots,floor_number,near_metro,balconies,location,furnishing,quality_grade,price_inr,area_per_room,luxury_score,age_bucket
+1146.0,2,2,28,1,9,0,1,IT Hub,Semi-Furnished,Good,6425543.0,286.5,2,Old
+1756.0,4,5,16,1,4,0,1,Family Zone,Unfurnished,Good,10085730.0,195.11111111111111,2,Mature
+1404.0,3,3,17,1,19,1,1,IT Hub,Unfurnished,Standard,8128935.0,234.0,3,Mature
+946.0,2,2,24,1,16,1,0,IT Hub,Semi-Furnished,Premium,8236799.0,236.5,2,Old
+952.0,2,1,4,2,21,0,1,Budget Zone,Fully Furnished,Premium,7769556.0,317.3333333333333,3,Recent
+2202.0,4,4,30,1,11,0,0,Premium Central,Semi-Furnished,Premium,16267724.0,275.25,1,Old
+1369.0,2,2,12,0,4,1,0,IT Hub,Semi-Furnished,Standard,7103275.0,342.25,1,Mature
+2303.0,5,5,23,0,9,0,1,IT Hub,Unfurnished,Good,14702263.0,230.3,1,Old
+1183.0,3,4,15,1,15,0,2,Budget Zone,Unfurnished,Good,5060551.0,169.0,3,Mature
+1601.0,3,2,26,2,6,1,1,Family Zone,Unfurnished,Standard,9184892.0,320.2,4,Old
+2694.0,5,5,21,2,2,1,1,Developing Zone,Fully Furnished,Standard,15259776.0,269.4,4,Old
+900.0,2,2,6,1,20,1,2,Premium Central,Fully Furnished,Good,9728791.0,225.0,4,Recent
+463.0,1,1,6,2,13,1,1,Family Zone,Fully Furnished,Premium,7436764.0,231.5,4,Recent
+2119.0,5,5,30,1,10,0,0,IT Hub,Fully Furnished,Standard,9058108.0,211.9,1,Old
+1020.0,1,2,18,1,14,1,1,Family Zone,Fully Furnished,Premium,7597578.0,340.0,3,Mature
+1439.0,4,4,9,1,18,1,1,Developing Zone,Fully Furnished,Good,10385749.0,179.875,3,Recent
+1145.0,2,2,5,0,1,1,1,Family Zone,Unfurnished,Premium,8933139.0,286.25,2,Recent
+1589.0,3,3,4,0,11,1,1,Budget Zone,Unfurnished,Good,6914979.0,264.8333333333333,2,Recent
+956.0,2,3,32,1,7,0,1,IT Hub,Semi-Furnished,Good,4990714.0,191.2,2,Old
+1356.0,3,3,34,0,3,0,1,Family Zone,Semi-Furnished,Good,3265895.0,226.0,1,Old
+1684.0,3,4,13,2,1,0,3,IT Hub,Unfurnished,Luxury,13692790.0,240.57142857142856,5,Mature
+926.0,3,3,7,2,11,0,1,Developing Zone,Fully Furnished,Good,5449204.0,154.33333333333334,3,Recent
+1086.0,2,1,14,1,14,1,1,Premium Central,Semi-Furnished,Good,10019126.0,362.0,3,Mature
+1269.0,2,2,4,1,13,0,1,Premium Central,Semi-Furnished,Good,11840536.0,317.25,2,Recent
+707.0,2,1,19,1,19,1,2,IT Hub,Unfurnished,Premium,5242678.0,235.66666666666663,4,Mature

@@ -1,0 +1,901 @@
+area_sqft,bedrooms,bathrooms,property_age,parking_slots,floor_number,near_metro,balconies,location,furnishing,quality_grade,price_inr,area_per_room,luxury_score,age_bucket
+1146.0,2,2,28,1,9,0,1,IT Hub,Semi-Furnished,Good,6425543.0,286.5,2,Old
+1756.0,4,5,16,1,4,0,1,Family Zone,Unfurnished,Good,10085730.0,195.11111111111111,2,Mature
+1404.0,3,3,17,1,19,1,1,IT Hub,Unfurnished,Standard,8128935.0,234.0,3,Mature
+946.0,2,2,24,1,16,1,0,IT Hub,Semi-Furnished,Premium,8236799.0,236.5,2,Old
+952.0,2,1,4,2,21,0,1,Budget Zone,Fully Furnished,Premium,7769556.0,317.3333333333333,3,Recent
+2202.0,4,4,30,1,11,0,0,Premium Central,Semi-Furnished,Premium,16267724.0,275.25,1,Old
+1369.0,2,2,12,0,4,1,0,IT Hub,Semi-Furnished,Standard,7103275.0,342.25,1,Mature
+2303.0,5,5,23,0,9,0,1,IT Hub,Unfurnished,Good,14702263.0,230.3,1,Old
+1183.0,3,4,15,1,15,0,2,Budget Zone,Unfurnished,Good,5060551.0,169.0,3,Mature
+1601.0,3,2,26,2,6,1,1,Family Zone,Unfurnished,Standard,9184892.0,320.2,4,Old
+2694.0,5,5,21,2,2,1,1,Developing Zone,Fully Furnished,Standard,15259776.0,269.4,4,Old
+900.0,2,2,6,1,20,1,2,Premium Central,Fully Furnished,Good,9728791.0,225.0,4,Recent
+463.0,1,1,6,2,13,1,1,Family Zone,Fully Furnished,Premium,7436764.0,231.5,4,Recent
+2119.0,5,5,30,1,10,0,0,IT Hub,Fully Furnished,Standard,9058108.0,211.9,1,Old
+1020.0,1,2,18,1,14,1,1,Family Zone,Fully Furnished,Premium,7597578.0,340.0,3,Mature
+1439.0,4,4,9,1,18,1,1,Developing Zone,Fully Furnished,Good,10385749.0,179.875,3,Recent
+1145.0,2,2,5,0,1,1,1,Family Zone,Unfurnished,Premium,8933139.0,286.25,2,Recent
+1589.0,3,3,4,0,11,1,1,Budget Zone,Unfurnished,Good,6914979.0,264.8333333333333,2,Recent
+956.0,2,3,32,1,7,0,1,IT Hub,Semi-Furnished,Good,4990714.0,191.2,2,Old
+1356.0,3,3,34,0,3,0,1,Family Zone,Semi-Furnished,Good,3265895.0,226.0,1,Old
+1684.0,3,4,13,2,1,0,3,IT Hub,Unfurnished,Luxury,13692790.0,240.57142857142858,5,Mature
+926.0,3,3,7,2,11,0,1,Developing Zone,Fully Furnished,Good,5449204.0,154.33333333333334,3,Recent
+1086.0,2,1,14,1,14,1,1,Premium Central,Semi-Furnished,Good,10019126.0,362.0,3,Mature
+1269.0,2,2,4,1,13,0,1,Premium Central,Semi-Furnished,Good,11840536.0,317.25,2,Recent
+707.0,2,1,19,1,19,1,2,IT Hub,Unfurnished,Premium,5242678.0,235.66666666666666,4,Mature
+1230.0,3,1,21,0,11,0,2,Developing Zone,Unfurnished,Standard,4520148.0,307.5,2,Old
+1512.0,4,4,34,1,15,0,2,Family Zone,Unfurnished,Good,6672059.0,189.0,3,Old
+1242.0,3,2,11,0,20,0,1,Budget Zone,Fully Furnished,Good,6166658.0,248.4,1,Mature
+1309.0,2,2,6,1,16,0,1,Budget Zone,Semi-Furnished,Luxury,7355597.0,327.25,2,Recent
+1440.0,3,4,4,0,22,1,2,IT Hub,Semi-Furnished,Good,11623603.0,205.71428571428572,3,Recent
+1109.0,3,3,13,0,6,1,1,IT Hub,Unfurnished,Good,6156229.0,184.83333333333334,2,Mature
+1809.0,4,4,21,0,19,0,3,Premium Central,Semi-Furnished,Luxury,13052587.0,226.125,3,Old
+2197.0,5,4,2,2,17,1,1,Developing Zone,Semi-Furnished,Good,13157665.0,244.11111111111111,4,New
+1209.0,3,4,26,0,14,1,1,Developing Zone,Fully Furnished,Standard,5447681.0,172.71428571428572,2,Old
+1702.0,3,4,16,1,1,1,1,Family Zone,Fully Furnished,Standard,10116280.0,243.14285714285714,3,Mature
+1325.0,2,2,27,1,13,0,1,Developing Zone,Unfurnished,Standard,3850443.0,331.25,2,Old
+1640.0,2,1,16,1,21,0,2,Budget Zone,Fully Furnished,Standard,8136922.0,546.6666666666666,3,Mature
+2264.0,4,4,5,1,16,1,0,Family Zone,Unfurnished,Good,13444400.0,283.0,2,Recent
+1715.0,3,2,0,0,1,1,1,Developing Zone,Fully Furnished,Premium,11502594.0,343.0,2,New
+528.0,2,1,19,1,7,0,1,Family Zone,Unfurnished,Premium,3731222.0,176.0,2,Mature
+1686.0,2,1,18,1,14,1,2,Family Zone,Unfurnished,Standard,9128563.0,562.0,4,Mature
+2091.0,4,3,28,1,20,0,1,IT Hub,Fully Furnished,Good,12745920.0,298.7142857142857,2,Old
+1335.0,4,4,30,1,11,1,3,IT Hub,Unfurnished,Standard,7914056.0,166.875,5,Old
+1968.0,4,3,5,1,21,0,2,Developing Zone,Semi-Furnished,Luxury,13177986.0,281.14285714285717,3,Recent
+1091.0,2,2,11,1,20,1,1,IT Hub,Semi-Furnished,Standard,5746351.0,272.75,3,Mature
+678.0,2,1,7,0,7,0,2,IT Hub,Unfurnished,Good,3215669.0,226.0,2,Recent
+1523.0,4,5,3,1,5,0,3,Developing Zone,Semi-Furnished,Good,9798147.0,169.22222222222223,4,New
+537.0,1,2,0,0,22,1,1,Developing Zone,Fully Furnished,Good,5287494.0,179.0,2,New
+1325.0,3,2,2,1,15,0,1,IT Hub,Fully Furnished,Good,10862629.0,265.0,2,New
+2119.0,4,5,18,1,21,1,1,Budget Zone,Semi-Furnished,Premium,10737845.0,235.44444444444446,3,Mature
+457.0,1,1,5,0,23,1,2,Developing Zone,Semi-Furnished,Standard,3798078.0,228.5,3,Recent
+785.0,2,2,6,0,11,0,0,Budget Zone,Unfurnished,Luxury,4441414.0,196.25,0,Recent
+913.0,3,4,4,1,2,0,2,IT Hub,Unfurnished,Good,7537002.0,130.42857142857142,3,Recent
+1417.0,4,5,25,1,22,1,1,Family Zone,Unfurnished,Premium,7498617.0,157.44444444444446,3,Old
+1260.0,3,3,22,2,15,1,1,IT Hub,Fully Furnished,Premium,10663612.0,210.0,4,Old
+2178.0,4,4,33,2,3,1,0,IT Hub,Fully Furnished,Luxury,13479375.0,272.25,3,Old
+1946.0,5,4,3,2,13,0,2,Family Zone,Fully Furnished,Standard,12692463.0,216.22222222222223,4,New
+1708.0,3,3,7,1,1,1,1,Family Zone,Semi-Furnished,Good,9572333.0,284.6666666666667,3,Recent
+1526.0,3,2,15,1,7,1,1,Budget Zone,Semi-Furnished,Good,7062645.0,305.2,3,Mature
+1654.0,2,1,22,1,9,1,1,Budget Zone,Semi-Furnished,Good,7745215.0,551.3333333333334,3,Old
+1002.0,3,2,4,1,11,0,0,Family Zone,Semi-Furnished,Good,7093050.0,200.4,1,Recent
+1896.0,4,5,7,1,14,0,1,Family Zone,Semi-Furnished,Luxury,11987690.0,210.66666666666666,2,Recent
+872.0,4,4,14,1,21,1,3,Family Zone,Unfurnished,Luxury,7531734.0,109.0,5,Mature
+1884.0,3,3,0,0,9,1,1,IT Hub,Unfurnished,Good,11813655.0,314.0,2,New
+2067.0,5,5,13,0,18,0,2,Family Zone,Fully Furnished,Good,10482885.0,206.7,2,Mature
+1560.0,3,3,26,0,23,1,0,Family Zone,Semi-Furnished,Premium,8664137.0,260.0,1,Old
+1358.0,3,3,18,0,18,0,2,Family Zone,Fully Furnished,Luxury,9882301.0,226.33333333333334,2,Mature
+1658.0,2,3,15,2,7,0,1,Developing Zone,Unfurnished,Standard,8105145.0,331.6,3,Mature
+450.0,2,1,17,0,17,0,1,Budget Zone,Semi-Furnished,Good,2383864.0,150.0,1,Mature
+1607.0,4,4,33,1,7,0,1,Family Zone,Unfurnished,Premium,8068608.0,200.875,2,Old
+1391.0,3,3,18,2,12,0,0,Developing Zone,Unfurnished,Good,6726149.0,231.83333333333334,2,Mature
+1424.0,3,3,18,1,16,0,1,Developing Zone,Unfurnished,Good,5700038.0,237.33333333333334,2,Mature
+1817.0,3,4,32,1,8,0,1,IT Hub,Unfurnished,Luxury,11142376.0,259.57142857142856,2,Old
+1411.0,2,2,5,1,1,1,1,Developing Zone,Fully Furnished,Luxury,9676986.0,352.75,3,Recent
+857.0,2,2,3,1,21,1,3,Budget Zone,Semi-Furnished,Luxury,7308841.0,214.25,5,New
+1376.0,2,2,15,1,18,1,1,Developing Zone,Semi-Furnished,Premium,8519234.0,344.0,3,Mature
+1485.0,4,5,11,2,3,0,3,Developing Zone,Semi-Furnished,Good,9315975.0,165.0,5,Mature
+1510.0,4,4,7,1,10,1,1,Family Zone,Semi-Furnished,Good,13101295.0,188.75,3,Recent
+1534.0,3,3,4,2,7,0,0,Family Zone,Semi-Furnished,Good,8914720.0,255.66666666666666,2,Recent
+1990.0,4,4,30,2,24,1,1,IT Hub,Unfurnished,Good,11849971.0,248.75,4,Old
+885.0,2,2,21,1,23,1,1,Family Zone,Fully Furnished,Good,4571681.0,221.25,3,Old
+1541.0,3,3,24,1,17,0,1,Developing Zone,Fully Furnished,Good,7138193.0,256.8333333333333,2,Old
+2121.0,4,3,4,1,11,0,2,IT Hub,Semi-Furnished,Good,14241440.0,303.0,3,Recent
+548.0,1,2,11,1,2,1,2,Budget Zone,Semi-Furnished,Premium,5966752.0,182.66666666666666,4,Mature
+1543.0,4,4,21,1,6,1,1,Budget Zone,Unfurnished,Good,6563810.0,192.875,3,Old
+1146.0,2,2,18,1,3,1,1,Budget Zone,Fully Furnished,Good,5924032.0,286.5,3,Mature
+1257.0,4,5,24,2,19,1,1,IT Hub,Semi-Furnished,Standard,7941522.0,139.66666666666666,4,Old
+980.0,2,3,23,1,3,1,1,Family Zone,Unfurnished,Standard,3388973.0,196.0,3,Old
+1362.0,2,2,14,1,17,0,0,Budget Zone,Semi-Furnished,Premium,6200448.0,340.5,1,Mature
+2407.0,5,5,27,1,23,1,0,Family Zone,Fully Furnished,Good,12698785.0,240.7,2,Old
+792.0,2,1,9,1,8,0,1,Budget Zone,Semi-Furnished,Standard,3663883.0,264.0,2,Recent
+842.0,2,3,2,1,17,1,0,IT Hub,Fully Furnished,Premium,9596101.0,168.4,2,New
+773.0,3,4,31,1,22,0,2,Family Zone,Fully Furnished,Good,4215055.0,110.42857142857143,3,Old
+2348.0,4,4,0,1,11,1,0,Developing Zone,Unfurnished,Standard,12059641.0,293.5,2,New
+1210.0,2,2,9,1,11,1,0,Developing Zone,Fully Furnished,Good,6333268.0,302.5,2,Recent
+1437.0,3,4,4,1,5,0,2,Family Zone,Semi-Furnished,Standard,9330409.0,205.28571428571428,3,Recent
+1241.0,2,3,8,0,11,0,3,Developing Zone,Semi-Furnished,Premium,7555892.0,248.2,3,Recent
+959.0,2,2,13,1,21,0,1,Budget Zone,Unfurnished,Good,4996041.0,239.75,2,Mature
+1328.0,4,5,4,2,16,1,1,Budget Zone,Fully Furnished,Standard,9635756.0,147.55555555555554,4,Recent
+2728.0,5,5,16,1,5,1,2,Premium Central,Unfurnished,Standard,19338884.0,272.8,4,Mature
+2174.0,3,3,32,2,13,0,0,Premium Central,Unfurnished,Good,13305684.0,362.3333333333333,2,Old
+1006.0,1,1,4,0,17,0,1,IT Hub,Semi-Furnished,Standard,6182235.0,503.0,1,Recent
+1787.0,5,5,32,1,2,1,0,Developing Zone,Unfurnished,Premium,9044232.0,178.7,2,Old
+1018.0,2,2,14,1,19,0,1,Premium Central,Unfurnished,Standard,6426480.0,254.5,2,Mature
+526.0,1,1,20,1,5,1,3,IT Hub,Semi-Furnished,Good,3873509.0,263.0,5,Mature
+1980.0,4,4,15,1,8,0,2,IT Hub,Semi-Furnished,Good,13494299.0,247.5,3,Mature
+2053.0,3,3,11,1,10,0,3,Family Zone,Fully Furnished,Good,12865132.0,342.1666666666667,4,Mature
+1994.0,5,4,3,2,13,0,2,Developing Zone,Semi-Furnished,Standard,10838139.0,221.55555555555554,4,New
+1206.0,2,2,20,1,22,1,1,Budget Zone,Semi-Furnished,Premium,5001760.0,301.5,3,Mature
+1363.0,4,4,32,0,6,0,2,Premium Central,Semi-Furnished,Premium,10225608.0,170.375,2,Old
+1840.0,4,5,18,1,7,0,2,Family Zone,Semi-Furnished,Standard,9099766.0,204.44444444444446,3,Mature
+1654.0,4,4,20,1,10,1,1,Developing Zone,Semi-Furnished,Standard,8294707.0,206.75,3,Mature
+1245.0,3,2,22,1,21,1,1,Developing Zone,Semi-Furnished,Luxury,8210042.0,249.0,3,Old
+608.0,2,3,13,1,24,0,1,Family Zone,Fully Furnished,Good,3219979.0,121.6,2,Mature
+1509.0,3,2,4,1,11,0,1,Budget Zone,Semi-Furnished,Standard,6965104.0,301.8,2,Recent
+2011.0,4,5,17,1,17,1,1,IT Hub,Unfurnished,Standard,12712063.0,223.44444444444446,3,Mature
+827.0,2,1,30,1,23,0,0,IT Hub,Semi-Furnished,Premium,5303325.0,275.6666666666667,1,Old
+1782.0,3,2,10,1,21,1,1,IT Hub,Fully Furnished,Premium,13570037.0,356.4,3,Recent
+1622.0,4,4,30,1,17,0,1,Family Zone,Unfurnished,Good,5655421.0,202.75,2,Old
+1840.0,3,3,29,1,13,0,1,Family Zone,Semi-Furnished,Luxury,11744733.0,306.6666666666667,2,Old
+1903.0,4,4,8,2,24,0,1,Family Zone,Fully Furnished,Good,12591632.0,237.875,3,Recent
+1089.0,2,3,20,1,6,1,0,Family Zone,Semi-Furnished,Good,5604669.0,217.8,2,Mature
+609.0,2,1,26,2,9,0,3,Budget Zone,Fully Furnished,Good,2755143.0,203.0,5,Old
+1173.0,2,2,17,0,18,0,1,Developing Zone,Semi-Furnished,Good,5629702.0,293.25,1,Mature
+1912.0,4,4,24,1,1,0,1,Budget Zone,Semi-Furnished,Standard,7442646.0,239.0,2,Old
+1168.0,2,2,31,1,13,1,0,Family Zone,Semi-Furnished,Standard,4465105.0,292.0,2,Old
+1089.0,1,2,21,1,21,0,2,Developing Zone,Fully Furnished,Good,6536773.0,363.0,3,Old
+503.0,1,1,29,1,5,1,1,Budget Zone,Semi-Furnished,Premium,1800000.0,251.5,3,Old
+2361.0,4,4,28,1,20,1,1,Budget Zone,Semi-Furnished,Standard,7735557.0,295.125,3,Old
+1879.0,3,3,28,1,10,0,1,Family Zone,Semi-Furnished,Good,7315888.0,313.1666666666667,2,Old
+1850.0,4,4,29,2,21,1,2,Budget Zone,Semi-Furnished,Good,7451835.0,231.25,5,Old
+1953.0,4,4,7,1,16,1,3,Premium Central,Semi-Furnished,Good,17767377.0,244.125,5,Recent
+1750.0,4,4,0,0,4,0,1,Family Zone,Semi-Furnished,Premium,13594022.0,218.75,1,New
+1323.0,3,3,5,1,18,0,0,Developing Zone,Fully Furnished,Premium,9257731.0,220.5,1,Recent
+1365.0,2,3,8,1,2,0,0,Family Zone,Semi-Furnished,Premium,8631374.0,273.0,1,Recent
+1228.0,2,1,24,0,6,0,0,Budget Zone,Semi-Furnished,Standard,2874484.0,409.3333333333333,0,Old
+2820.0,6,5,17,1,22,1,2,Premium Central,Semi-Furnished,Good,21719526.0,256.3636363636364,4,Mature
+1739.0,3,4,16,1,22,1,3,Family Zone,Semi-Furnished,Good,9368573.0,248.42857142857142,5,Mature
+1209.0,3,2,0,0,2,1,3,IT Hub,Semi-Furnished,Standard,8487447.0,241.8,4,New
+1692.0,3,3,23,1,10,0,2,Budget Zone,Unfurnished,Standard,7021844.0,282.0,3,Old
+924.0,2,2,12,1,3,0,0,Family Zone,Unfurnished,Standard,3400357.0,231.0,1,Mature
+2232.0,4,5,26,1,7,0,3,Family Zone,Semi-Furnished,Good,11230206.0,248.0,4,Old
+1106.0,3,4,3,1,24,1,1,Premium Central,Semi-Furnished,Good,10821290.0,158.0,3,New
+1711.0,3,3,10,0,5,0,1,Family Zone,Semi-Furnished,Standard,8903372.0,285.1666666666667,1,Recent
+2004.0,4,3,1,2,16,1,2,Family Zone,Unfurnished,Premium,13319312.0,286.2857142857143,5,New
+1650.0,3,2,9,1,20,1,0,Developing Zone,Semi-Furnished,Luxury,10899268.0,330.0,2,Recent
+1499.0,3,3,32,0,22,0,2,Developing Zone,Unfurnished,Standard,5052946.0,249.83333333333334,2,Old
+1456.0,2,3,17,2,9,1,3,Family Zone,Fully Furnished,Luxury,13629331.0,291.2,6,Mature
+1421.0,3,3,15,0,17,1,2,Family Zone,Fully Furnished,Standard,7945764.0,236.83333333333334,3,Mature
+1150.0,4,4,9,1,12,1,2,Budget Zone,Unfurnished,Luxury,8548332.0,143.75,4,Recent
+1216.0,3,4,9,1,3,0,1,IT Hub,Semi-Furnished,Luxury,12096211.0,173.71428571428572,2,Recent
+2219.0,5,5,23,2,6,0,0,Premium Central,Unfurnished,Standard,14556035.0,221.9,2,Old
+1394.0,3,3,34,2,18,1,2,Budget Zone,Unfurnished,Premium,5104662.0,232.33333333333334,5,Old
+1041.0,1,1,26,1,17,0,1,Family Zone,Unfurnished,Luxury,6227088.0,520.5,2,Old
+1182.0,2,3,25,1,13,1,2,Budget Zone,Unfurnished,Luxury,7888298.0,236.4,4,Old
+2022.0,5,4,16,1,19,0,0,Family Zone,Semi-Furnished,Luxury,12941430.0,224.66666666666666,1,Mature
+1801.0,3,3,3,1,17,1,1,Developing Zone,Fully Furnished,Good,11136886.0,300.1666666666667,3,New
+1741.0,3,3,25,1,9,1,1,Family Zone,Unfurnished,Standard,6856110.0,290.1666666666667,3,Old
+1316.0,3,3,28,0,8,0,2,IT Hub,Semi-Furnished,Premium,8133372.0,219.33333333333334,2,Old
+1748.0,3,4,17,0,23,0,2,IT Hub,Semi-Furnished,Good,11995751.0,249.71428571428572,2,Mature
+1115.0,2,3,3,0,24,1,3,Budget Zone,Fully Furnished,Good,6414845.0,223.0,4,New
+1315.0,3,3,24,0,1,0,1,Premium Central,Semi-Furnished,Good,8626068.0,219.16666666666666,1,Old
+1954.0,3,4,32,1,19,1,1,Developing Zone,Unfurnished,Good,8123064.0,279.14285714285717,3,Old
+1905.0,3,3,7,2,4,1,0,Budget Zone,Semi-Furnished,Standard,8477916.0,317.5,3,Recent
+939.0,2,2,5,1,21,0,1,Family Zone,Semi-Furnished,Premium,7600187.0,234.75,2,Recent
+1005.0,3,4,25,1,15,1,1,Developing Zone,Fully Furnished,Standard,5749975.0,143.57142857142858,3,Old
+1507.0,3,3,11,2,17,1,1,IT Hub,Semi-Furnished,Premium,12519352.0,251.16666666666666,4,Mature
+2348.0,4,5,25,1,17,1,1,IT Hub,Semi-Furnished,Premium,14628183.0,260.8888888888889,3,Old
+454.0,2,2,24,1,15,0,1,Developing Zone,Unfurnished,Good,1800000.0,113.5,2,Old
+1595.0,3,2,9,2,7,0,1,Premium Central,Semi-Furnished,Good,13175570.0,319.0,3,Recent
+734.0,2,1,1,1,20,0,2,Developing Zone,Fully Furnished,Good,5487473.0,244.66666666666666,3,New
+1120.0,3,3,19,1,14,1,1,Family Zone,Semi-Furnished,Luxury,10462961.0,186.66666666666666,3,Mature
+1260.0,3,3,14,2,14,1,1,Developing Zone,Semi-Furnished,Premium,10628059.0,210.0,4,Mature
+1231.0,2,1,29,1,8,1,2,Premium Central,Fully Furnished,Good,10960537.0,410.3333333333333,4,Old
+1172.0,3,3,12,1,1,0,2,Budget Zone,Fully Furnished,Standard,4852940.0,195.33333333333334,3,Mature
+1454.0,2,2,8,2,14,1,2,Budget Zone,Semi-Furnished,Standard,8133212.0,363.5,5,Recent
+1172.0,2,3,30,1,9,1,1,Family Zone,Semi-Furnished,Good,7091945.0,234.4,3,Old
+690.0,2,3,25,2,16,1,1,Premium Central,Semi-Furnished,Luxury,8556359.0,138.0,4,Old
+1856.0,4,4,21,0,9,0,2,Premium Central,Semi-Furnished,Premium,13812458.0,232.0,2,Old
+1841.0,4,4,33,0,24,1,1,IT Hub,Semi-Furnished,Standard,10652752.0,230.125,2,Old
+1888.0,4,5,27,1,17,0,1,Premium Central,Unfurnished,Premium,13729195.0,209.77777777777777,2,Old
+649.0,2,2,30,0,11,0,3,Premium Central,Fully Furnished,Good,4642060.0,162.25,3,Old
+1605.0,4,3,27,2,17,1,0,Family Zone,Fully Furnished,Premium,8690870.0,229.28571428571428,3,Old
+1802.0,4,3,14,0,16,1,2,Developing Zone,Fully Furnished,Standard,9618688.0,257.42857142857144,3,Mature
+914.0,3,2,2,1,15,0,2,IT Hub,Fully Furnished,Good,8007845.0,182.8,3,New
+1455.0,3,3,21,0,14,1,0,Family Zone,Semi-Furnished,Luxury,9957621.0,242.5,1,Old
+1390.0,4,4,26,2,23,1,2,Developing Zone,Fully Furnished,Good,8439602.0,173.75,5,Old
+2408.0,5,4,34,1,8,0,1,Budget Zone,Fully Furnished,Premium,10084403.0,267.55555555555554,2,Old
+2451.0,5,5,23,0,11,1,2,IT Hub,Semi-Furnished,Luxury,16932202.0,245.1,3,Old
+585.0,2,2,19,0,7,0,2,Developing Zone,Semi-Furnished,Standard,2949940.0,146.25,2,Mature
+2747.0,5,4,20,1,14,0,2,Premium Central,Unfurnished,Standard,18285089.0,305.22222222222223,3,Mature
+974.0,2,2,4,2,24,0,0,Developing Zone,Semi-Furnished,Premium,6131122.0,243.5,2,Recent
+1960.0,4,4,0,2,15,1,2,Budget Zone,Unfurnished,Good,11619260.0,245.0,5,New
+1955.0,6,5,1,1,5,0,3,IT Hub,Unfurnished,Standard,12470415.0,177.72727272727272,4,New
+932.0,2,2,31,1,23,0,1,Budget Zone,Semi-Furnished,Good,1800000.0,233.0,2,Old
+1706.0,3,2,27,0,19,1,1,Budget Zone,Semi-Furnished,Premium,6215401.0,341.2,2,Old
+1394.0,3,3,9,1,11,1,0,Family Zone,Unfurnished,Good,8972375.0,232.33333333333334,2,Recent
+1738.0,3,3,14,1,4,1,2,IT Hub,Fully Furnished,Good,12373605.0,289.6666666666667,4,Mature
+1570.0,4,3,16,1,10,1,0,Developing Zone,Fully Furnished,Premium,7919585.0,224.28571428571428,2,Mature
+2072.0,4,5,8,1,20,0,1,Developing Zone,Unfurnished,Good,10512110.0,230.22222222222223,2,Recent
+1489.0,3,4,14,2,14,0,3,IT Hub,Unfurnished,Premium,12467324.0,212.71428571428572,5,Mature
+1363.0,2,2,12,0,5,1,3,Premium Central,Semi-Furnished,Good,10648702.0,340.75,4,Mature
+2020.0,3,4,24,0,4,1,3,Family Zone,Fully Furnished,Luxury,12893151.0,288.57142857142856,4,Old
+1752.0,2,2,26,0,24,0,1,Budget Zone,Fully Furnished,Premium,8133332.0,438.0,1,Old
+1831.0,4,3,3,0,11,0,0,Budget Zone,Unfurnished,Standard,8007610.0,261.57142857142856,0,New
+1104.0,4,5,16,0,17,0,1,Developing Zone,Fully Furnished,Premium,8226376.0,122.66666666666667,1,Mature
+906.0,2,2,34,1,9,0,0,Budget Zone,Unfurnished,Good,1800000.0,226.5,1,Old
+1155.0,1,1,30,0,3,1,2,Family Zone,Semi-Furnished,Standard,6003291.0,577.5,3,Old
+1127.0,3,4,27,1,10,1,1,Budget Zone,Fully Furnished,Standard,5536150.0,161.0,3,Old
+1859.0,3,3,25,2,17,0,1,Family Zone,Unfurnished,Premium,12305065.0,309.8333333333333,3,Old
+1958.0,5,4,0,2,9,1,0,IT Hub,Unfurnished,Standard,13051059.0,217.55555555555554,3,New
+1369.0,3,3,34,1,15,1,1,Family Zone,Semi-Furnished,Good,5267670.0,228.16666666666666,3,Old
+2194.0,4,4,25,0,11,0,2,Developing Zone,Semi-Furnished,Standard,8956297.0,274.25,2,Old
+2162.0,4,4,31,0,9,0,2,IT Hub,Fully Furnished,Good,12203293.0,270.25,2,Old
+1577.0,4,4,31,0,7,1,0,IT Hub,Fully Furnished,Good,10086186.0,197.125,1,Old
+1023.0,2,1,8,2,7,0,0,IT Hub,Unfurnished,Good,8198948.0,341.0,2,Recent
+2269.0,4,5,0,2,7,1,1,Budget Zone,Unfurnished,Good,12211765.0,252.11111111111111,4,New
+1418.0,3,3,23,1,18,1,0,Budget Zone,Fully Furnished,Standard,5575623.0,236.33333333333334,2,Old
+1516.0,2,1,16,1,9,1,3,Premium Central,Unfurnished,Good,12045624.0,505.3333333333333,5,Mature
+1273.0,3,2,0,1,18,1,2,Developing Zone,Fully Furnished,Good,8980904.0,254.6,4,New
+987.0,1,2,9,1,8,1,0,Developing Zone,Semi-Furnished,Premium,7039416.0,329.0,2,Recent
+686.0,1,1,34,2,8,1,2,Family Zone,Unfurnished,Standard,3410365.0,343.0,5,Old
+1779.0,4,3,12,0,23,0,1,Family Zone,Fully Furnished,Standard,10332216.0,254.14285714285714,1,Mature
+1043.0,2,2,9,1,22,1,1,Premium Central,Unfurnished,Standard,8976918.0,260.75,3,Recent
+3041.0,6,5,22,1,10,1,1,Developing Zone,Semi-Furnished,Good,14695793.0,276.45454545454544,3,Old
+885.0,2,1,23,0,7,1,0,Premium Central,Semi-Furnished,Good,4232050.0,295.0,1,Old
+796.0,3,2,11,1,18,1,1,Budget Zone,Semi-Furnished,Premium,5748335.0,159.2,3,Mature
+1715.0,4,5,29,2,2,0,2,Family Zone,Semi-Furnished,Good,8680178.0,190.55555555555554,4,Old
+2245.0,5,5,20,0,11,1,3,Family Zone,Semi-Furnished,Good,12593727.0,224.5,4,Mature
+1484.0,4,5,5,1,15,1,1,Budget Zone,Fully Furnished,Good,8833898.0,164.88888888888889,3,Recent
+1748.0,4,5,11,1,17,1,2,Budget Zone,Fully Furnished,Standard,8971694.0,194.22222222222223,4,Mature
+491.0,1,1,29,0,3,1,1,Developing Zone,Semi-Furnished,Good,1800000.0,245.5,2,Old
+1098.0,1,2,3,0,1,1,1,Premium Central,Unfurnished,Good,8188682.0,366.0,2,New
+892.0,2,2,0,1,7,1,1,Family Zone,Semi-Furnished,Good,8681390.0,223.0,3,New
+465.0,2,3,22,0,3,0,1,Premium Central,Fully Furnished,Standard,2123048.0,93.0,1,Old
+1511.0,4,3,15,1,13,0,0,IT Hub,Semi-Furnished,Premium,10617282.0,215.85714285714286,1,Mature
+450.0,1,1,8,2,23,1,3,Family Zone,Semi-Furnished,Luxury,7725863.0,225.0,6,Recent
+762.0,1,1,16,1,7,1,2,IT Hub,Semi-Furnished,Standard,5982402.0,381.0,4,Mature
+1171.0,3,3,6,2,11,1,1,Budget Zone,Unfurnished,Good,7995833.0,195.16666666666666,4,Recent
+1018.0,2,2,13,1,6,0,2,Budget Zone,Semi-Furnished,Premium,6436840.0,254.5,3,Mature
+1656.0,2,1,8,1,2,0,0,IT Hub,Semi-Furnished,Good,11247467.0,552.0,1,Recent
+1609.0,3,2,20,1,17,0,2,IT Hub,Fully Furnished,Premium,12321075.0,321.8,3,Mature
+1915.0,2,3,23,0,7,1,1,Developing Zone,Fully Furnished,Good,9860520.0,383.0,2,Old
+1841.0,3,4,32,1,14,1,0,Family Zone,Fully Furnished,Luxury,9841582.0,263.0,2,Old
+2043.0,5,5,2,1,17,1,2,Family Zone,Semi-Furnished,Luxury,14839592.0,204.3,4,New
+1449.0,4,3,11,1,21,0,1,IT Hub,Semi-Furnished,Standard,9609989.0,207.0,2,Mature
+1608.0,2,2,9,1,5,1,1,Family Zone,Semi-Furnished,Good,9409646.0,402.0,3,Recent
+1716.0,3,4,20,0,14,1,1,Developing Zone,Fully Furnished,Good,10645296.0,245.14285714285714,2,Mature
+1524.0,3,4,18,2,22,0,0,Developing Zone,Semi-Furnished,Standard,7183938.0,217.71428571428572,2,Mature
+1243.0,4,3,30,0,12,1,0,Developing Zone,Fully Furnished,Good,5887324.0,177.57142857142858,1,Old
+1277.0,2,2,32,2,1,1,1,Family Zone,Unfurnished,Luxury,8969278.0,319.25,4,Old
+1025.0,2,2,27,2,7,0,1,IT Hub,Fully Furnished,Standard,5763035.0,256.25,3,Old
+1669.0,4,5,6,2,20,0,0,Family Zone,Unfurnished,Good,10649625.0,185.44444444444446,2,Recent
+1401.0,3,3,1,1,20,1,1,Developing Zone,Unfurnished,Premium,10493411.0,233.5,3,New
+1105.0,3,2,31,0,8,1,1,Developing Zone,Semi-Furnished,Good,3280956.0,221.0,2,Old
+1106.0,1,1,32,1,5,1,2,IT Hub,Unfurnished,Good,5569896.0,553.0,4,Old
+821.0,2,3,8,1,8,1,2,IT Hub,Unfurnished,Luxury,9612862.0,164.2,4,Recent
+1959.0,3,3,1,1,6,0,1,Budget Zone,Unfurnished,Good,9502670.0,326.5,2,New
+1491.0,2,3,23,1,18,1,1,Budget Zone,Semi-Furnished,Standard,7103470.0,298.2,3,Old
+1001.0,3,3,20,0,21,1,1,Family Zone,Fully Furnished,Standard,4010373.0,166.83333333333334,2,Mature
+1870.0,4,3,31,1,2,0,1,Budget Zone,Unfurnished,Luxury,6334898.0,267.14285714285717,2,Old
+1159.0,2,2,20,1,18,1,0,IT Hub,Semi-Furnished,Good,8273214.0,289.75,2,Mature
+719.0,1,2,26,1,19,0,0,Developing Zone,Fully Furnished,Good,4184026.0,239.66666666666666,1,Old
+1981.0,4,4,27,2,15,0,2,Budget Zone,Unfurnished,Standard,6943245.0,247.625,4,Old
+1171.0,3,4,0,1,21,0,1,Premium Central,Unfurnished,Good,10786111.0,167.28571428571428,2,New
+1237.0,3,2,5,1,1,1,2,Budget Zone,Fully Furnished,Luxury,10206776.0,247.4,4,Recent
+1471.0,1,1,27,1,17,0,1,Developing Zone,Fully Furnished,Good,5655723.0,735.5,2,Old
+2044.0,3,2,6,1,4,0,1,Budget Zone,Semi-Furnished,Luxury,10405916.0,408.8,2,Recent
+1460.0,3,3,7,1,22,1,2,Budget Zone,Fully Furnished,Good,8842954.0,243.33333333333334,4,Recent
+826.0,2,2,26,0,12,0,2,Budget Zone,Unfurnished,Good,3282500.0,206.5,2,Old
+1733.0,4,4,7,0,3,1,0,Budget Zone,Semi-Furnished,Premium,8452449.0,216.625,1,Recent
+1198.0,3,3,5,1,18,1,2,Budget Zone,Semi-Furnished,Good,7298707.0,199.66666666666666,4,Recent
+2432.0,4,4,0,1,18,0,1,Budget Zone,Unfurnished,Good,11117427.0,304.0,2,New
+1449.0,3,3,16,1,12,0,1,Family Zone,Fully Furnished,Premium,9967259.0,241.5,2,Mature
+450.0,1,2,22,0,8,1,2,IT Hub,Semi-Furnished,Good,3486971.0,150.0,3,Old
+1636.0,4,4,25,1,1,0,2,Developing Zone,Fully Furnished,Good,7769905.0,204.5,3,Old
+2461.0,4,4,31,0,22,0,1,Developing Zone,Semi-Furnished,Luxury,12844909.0,307.625,1,Old
+2269.0,4,5,22,1,5,1,3,Family Zone,Semi-Furnished,Standard,11653044.0,252.11111111111111,5,Old
+2402.0,5,4,26,1,21,1,2,IT Hub,Unfurnished,Good,14068801.0,266.8888888888889,4,Old
+920.0,3,2,7,1,15,1,1,IT Hub,Unfurnished,Standard,5088132.0,184.0,3,Recent
+1924.0,4,5,11,0,17,1,0,Budget Zone,Fully Furnished,Good,8991417.0,213.77777777777777,1,Mature
+1075.0,3,3,10,2,17,1,1,Developing Zone,Unfurnished,Standard,6699468.0,179.16666666666666,4,Recent
+1567.0,4,5,2,1,21,1,1,Developing Zone,Unfurnished,Premium,11094942.0,174.11111111111111,3,New
+788.0,2,3,33,1,1,1,2,Developing Zone,Unfurnished,Standard,3119165.0,157.6,4,Old
+1115.0,2,2,8,1,24,1,1,Family Zone,Unfurnished,Premium,8615844.0,278.75,3,Recent
+1098.0,2,2,15,2,2,1,2,Developing Zone,Fully Furnished,Good,9435543.0,274.5,5,Mature
+1917.0,4,3,12,2,24,1,1,Budget Zone,Semi-Furnished,Good,9000617.0,273.85714285714283,4,Mature
+1866.0,4,4,1,1,7,0,2,Developing Zone,Fully Furnished,Good,10169719.0,233.25,3,New
+1594.0,3,2,31,1,21,1,2,Family Zone,Unfurnished,Premium,7422678.0,318.8,4,Old
+748.0,2,1,7,0,3,1,2,Budget Zone,Semi-Furnished,Good,4082073.0,249.33333333333334,3,Recent
+1288.0,2,3,3,1,12,0,2,IT Hub,Semi-Furnished,Good,9153778.0,257.6,3,New
+1062.0,2,2,11,1,14,0,2,Budget Zone,Semi-Furnished,Premium,6595635.0,265.5,3,Mature
+1902.0,5,5,5,0,23,1,0,Premium Central,Fully Furnished,Good,17084061.0,190.2,1,Recent
+2063.0,4,4,34,2,3,0,2,Budget Zone,Fully Furnished,Standard,8910603.0,257.875,4,Old
+1999.0,3,3,6,2,1,0,3,IT Hub,Fully Furnished,Luxury,16826334.0,333.1666666666667,5,Recent
+1057.0,3,4,10,1,16,0,1,Premium Central,Unfurnished,Good,10646397.0,151.0,2,Recent
+450.0,1,1,9,2,2,0,1,Premium Central,Unfurnished,Standard,3340464.0,225.0,3,Recent
+531.0,2,2,0,1,19,1,3,IT Hub,Semi-Furnished,Good,5069597.0,132.75,5,New
+2189.0,4,4,0,1,1,0,0,IT Hub,Unfurnished,Standard,14738676.0,273.625,1,New
+1241.0,2,2,17,2,24,0,1,Family Zone,Semi-Furnished,Standard,4777929.0,310.25,3,Mature
+1060.0,2,2,8,1,13,1,0,IT Hub,Semi-Furnished,Premium,8492137.0,265.0,2,Recent
+2304.0,3,4,2,1,23,0,1,Budget Zone,Semi-Furnished,Standard,10758381.0,329.14285714285717,2,New
+2108.0,4,5,10,1,4,0,1,Family Zone,Fully Furnished,Premium,13568889.0,234.22222222222223,2,Recent
+1463.0,3,2,9,0,7,1,1,Family Zone,Semi-Furnished,Luxury,10465095.0,292.6,2,Recent
+1297.0,4,5,14,1,11,1,3,IT Hub,Unfurnished,Good,8872857.0,144.11111111111111,5,Mature
+1381.0,3,2,34,1,1,1,1,Family Zone,Unfurnished,Premium,6921502.0,276.2,3,Old
+1568.0,2,2,10,1,3,1,1,Developing Zone,Semi-Furnished,Premium,10653896.0,392.0,3,Recent
+2282.0,4,4,24,0,8,1,2,Family Zone,Semi-Furnished,Luxury,13782499.0,285.25,3,Old
+1670.0,5,5,26,0,18,0,2,Developing Zone,Unfurnished,Good,6416797.0,167.0,2,Old
+1828.0,4,2,1,1,18,1,1,Budget Zone,Semi-Furnished,Standard,7693175.0,304.6666666666667,3,New
+2058.0,3,4,17,0,3,1,0,Family Zone,Fully Furnished,Good,10917197.0,294.0,1,Mature
+842.0,2,2,15,1,2,0,1,Developing Zone,Fully Furnished,Good,5529500.0,210.5,2,Mature
+1843.0,3,3,17,1,16,1,2,Developing Zone,Semi-Furnished,Standard,9259842.0,307.1666666666667,4,Mature
+1297.0,2,2,6,1,9,0,1,Developing Zone,Semi-Furnished,Good,6891944.0,324.25,2,Recent
+450.0,1,1,16,0,20,1,1,Developing Zone,Unfurnished,Standard,1800000.0,225.0,2,Mature
+450.0,1,2,4,2,8,1,2,Developing Zone,Semi-Furnished,Luxury,7628011.0,150.0,5,Recent
+921.0,1,1,33,1,9,1,2,Developing Zone,Semi-Furnished,Good,3230263.0,460.5,4,Old
+1726.0,3,1,20,1,6,0,1,IT Hub,Semi-Furnished,Standard,9914100.0,431.5,2,Mature
+1509.0,3,4,1,1,7,1,2,Developing Zone,Semi-Furnished,Standard,8797301.0,215.57142857142858,4,New
+1546.0,3,3,17,1,17,1,2,Premium Central,Unfurnished,Standard,10130146.0,257.6666666666667,4,Mature
+2464.0,5,5,32,1,12,0,2,Premium Central,Unfurnished,Good,16693959.0,246.4,3,Old
+790.0,1,2,26,1,16,0,2,Family Zone,Unfurnished,Standard,4833089.0,263.3333333333333,3,Old
+1436.0,3,3,9,1,2,1,2,Developing Zone,Fully Furnished,Good,10005327.0,239.33333333333334,4,Recent
+1608.0,2,2,31,2,13,0,1,Family Zone,Semi-Furnished,Standard,7101629.0,402.0,3,Old
+1067.0,3,4,6,1,12,1,1,IT Hub,Unfurnished,Good,9123414.0,152.42857142857142,3,Recent
+1465.0,2,2,8,2,22,1,2,Family Zone,Fully Furnished,Good,8895356.0,366.25,5,Recent
+618.0,1,2,5,1,11,0,1,IT Hub,Semi-Furnished,Good,4676086.0,206.0,2,Recent
+2183.0,4,4,32,2,3,1,1,Family Zone,Semi-Furnished,Good,9228996.0,272.875,4,Old
+1096.0,3,2,25,2,17,0,0,Family Zone,Fully Furnished,Standard,6817471.0,219.2,2,Old
+2506.0,5,4,18,0,4,1,2,Developing Zone,Unfurnished,Standard,12379847.0,278.44444444444446,3,Mature
+1433.0,3,3,23,0,22,1,2,IT Hub,Unfurnished,Standard,8013089.0,238.83333333333334,3,Old
+1985.0,4,3,9,1,10,0,1,Developing Zone,Semi-Furnished,Premium,11448604.0,283.57142857142856,2,Recent
+1422.0,2,3,2,1,19,1,1,IT Hub,Unfurnished,Luxury,11042137.0,284.4,3,New
+1434.0,3,2,29,1,16,1,1,IT Hub,Semi-Furnished,Luxury,9932726.0,286.8,3,Old
+1146.0,2,3,33,1,12,1,3,Budget Zone,Unfurnished,Good,6124373.0,229.2,5,Old
+1512.0,2,3,1,2,15,0,2,Family Zone,Unfurnished,Good,10335722.0,302.4,4,New
+1615.0,3,3,1,1,5,1,1,Budget Zone,Unfurnished,Good,8237368.0,269.1666666666667,3,New
+1042.0,2,1,19,1,2,1,1,IT Hub,Semi-Furnished,Premium,6244584.0,347.3333333333333,3,Mature
+1385.0,3,2,1,0,19,0,2,Budget Zone,Unfurnished,Premium,8781725.0,277.0,2,New
+1133.0,2,2,25,1,24,1,1,Premium Central,Unfurnished,Premium,8715513.0,283.25,3,Old
+2646.0,5,4,33,0,21,0,3,Budget Zone,Fully Furnished,Premium,9020160.0,294.0,3,Old
+1403.0,3,2,9,1,8,1,0,Premium Central,Semi-Furnished,Good,10828469.0,280.6,2,Recent
+2254.0,5,5,10,1,9,0,0,IT Hub,Semi-Furnished,Premium,14581392.0,225.4,1,Recent
+1348.0,3,3,30,1,9,1,1,Family Zone,Unfurnished,Premium,7417423.0,224.66666666666666,3,Old
+1585.0,4,4,12,1,17,0,1,IT Hub,Semi-Furnished,Good,10938845.0,198.125,2,Mature
+763.0,1,1,8,1,15,0,1,IT Hub,Unfurnished,Luxury,6742177.0,381.5,2,Recent
+1218.0,3,4,2,0,20,1,2,Premium Central,Semi-Furnished,Standard,11201990.0,174.0,3,New
+1559.0,2,2,29,0,23,1,0,Developing Zone,Unfurnished,Luxury,7693722.0,389.75,1,Old
+2275.0,4,5,32,2,10,1,1,Family Zone,Fully Furnished,Premium,14557681.0,252.77777777777777,4,Old
+1565.0,3,3,2,2,16,1,2,Budget Zone,Fully Furnished,Standard,8825575.0,260.8333333333333,5,New
+2170.0,4,3,28,1,13,0,2,Family Zone,Unfurnished,Premium,13863473.0,310.0,3,Old
+1783.0,3,4,5,1,23,1,1,Budget Zone,Unfurnished,Standard,7837270.0,254.71428571428572,3,Recent
+2296.0,3,3,4,1,9,0,1,Family Zone,Unfurnished,Premium,13002387.0,382.6666666666667,2,Recent
+1419.0,1,2,13,1,5,0,1,Family Zone,Semi-Furnished,Premium,7981306.0,473.0,2,Mature
+2693.0,4,3,15,1,10,1,1,Family Zone,Unfurnished,Good,14248025.0,384.7142857142857,3,Mature
+1198.0,3,2,29,0,15,1,2,Family Zone,Fully Furnished,Premium,5722810.0,239.6,3,Old
+1051.0,1,1,24,1,23,0,1,IT Hub,Fully Furnished,Standard,5736851.0,525.5,2,Old
+821.0,1,1,5,1,20,0,1,IT Hub,Fully Furnished,Good,5136851.0,410.5,2,Recent
+2662.0,6,5,20,1,1,1,2,Family Zone,Semi-Furnished,Good,14992552.0,242.0,4,Mature
+1876.0,3,3,30,0,13,0,1,Family Zone,Fully Furnished,Standard,6878577.0,312.6666666666667,1,Old
+1276.0,3,3,23,1,4,0,0,Premium Central,Unfurnished,Good,8184372.0,212.66666666666666,1,Old
+2099.0,4,4,8,1,9,0,1,Budget Zone,Semi-Furnished,Good,10532516.0,262.375,2,Recent
+1808.0,4,3,4,1,23,0,3,Budget Zone,Semi-Furnished,Good,11353194.0,258.2857142857143,4,Recent
+2472.0,4,5,15,1,24,0,2,Budget Zone,Fully Furnished,Good,10424840.0,274.6666666666667,3,Mature
+645.0,1,1,16,1,4,1,1,Family Zone,Semi-Furnished,Premium,5233794.0,322.5,3,Mature
+1312.0,2,2,12,1,4,0,2,Developing Zone,Fully Furnished,Good,6964017.0,328.0,3,Mature
+1209.0,4,4,3,2,17,1,1,IT Hub,Unfurnished,Premium,10264813.0,151.125,4,New
+450.0,1,1,4,0,10,1,1,Family Zone,Fully Furnished,Good,4193324.0,225.0,2,Recent
+2001.0,3,4,18,2,11,1,1,Developing Zone,Semi-Furnished,Good,11815860.0,285.85714285714283,4,Mature
+1309.0,2,2,33,1,21,1,1,Premium Central,Semi-Furnished,Good,8347274.0,327.25,3,Old
+1835.0,3,4,20,1,23,1,1,IT Hub,Fully Furnished,Good,14502621.0,262.14285714285717,3,Mature
+2677.0,6,5,15,1,22,1,3,Developing Zone,Semi-Furnished,Good,14567781.0,243.36363636363637,5,Mature
+1266.0,4,4,32,1,19,1,1,Developing Zone,Semi-Furnished,Good,5123190.0,158.25,3,Old
+1231.0,2,1,24,0,24,1,2,Developing Zone,Semi-Furnished,Standard,4390165.0,410.3333333333333,3,Old
+1512.0,2,1,25,2,18,1,2,Budget Zone,Unfurnished,Good,5481178.0,504.0,5,Old
+1963.0,2,3,20,1,22,1,1,Budget Zone,Semi-Furnished,Good,9322972.0,392.6,3,Mature
+1155.0,2,3,26,1,13,0,0,Premium Central,Unfurnished,Good,6084678.0,231.0,1,Old
+1122.0,2,3,17,1,2,1,1,Family Zone,Unfurnished,Premium,6381032.0,224.4,3,Mature
+2000.0,3,4,21,0,20,1,0,Developing Zone,Fully Furnished,Good,9422608.0,285.7142857142857,1,Old
+1647.0,3,2,21,0,23,0,1,IT Hub,Semi-Furnished,Luxury,11560620.0,329.4,1,Old
+450.0,2,2,26,1,8,1,3,Family Zone,Semi-Furnished,Premium,5351554.0,112.5,5,Old
+813.0,2,2,31,1,11,0,2,Premium Central,Semi-Furnished,Luxury,8307556.0,203.25,3,Old
+2231.0,4,4,10,1,14,0,0,IT Hub,Semi-Furnished,Premium,15820485.0,278.875,1,Recent
+1659.0,3,4,24,1,16,1,1,Family Zone,Semi-Furnished,Standard,8354335.0,237.0,3,Old
+1054.0,3,3,1,1,17,0,0,Developing Zone,Fully Furnished,Good,8161963.0,175.66666666666666,1,New
+1361.0,3,3,18,2,10,0,3,Premium Central,Fully Furnished,Standard,9721545.0,226.83333333333334,5,Mature
+1457.0,4,3,31,0,21,0,1,IT Hub,Semi-Furnished,Premium,6692417.0,208.14285714285714,1,Old
+1833.0,4,4,22,1,20,1,1,Premium Central,Semi-Furnished,Good,14221762.0,229.125,3,Old
+744.0,1,1,9,1,23,0,1,Budget Zone,Semi-Furnished,Good,3220969.0,372.0,2,Recent
+1013.0,1,2,21,1,14,1,1,IT Hub,Semi-Furnished,Luxury,8647296.0,337.6666666666667,3,Old
+1592.0,3,2,12,0,2,1,1,Family Zone,Semi-Furnished,Standard,8396432.0,318.4,2,Mature
+1398.0,2,2,15,0,21,1,2,Budget Zone,Semi-Furnished,Good,6729168.0,349.5,3,Mature
+1747.0,4,5,7,0,2,1,0,Family Zone,Semi-Furnished,Premium,12636900.0,194.11111111111111,1,Recent
+811.0,2,1,21,1,5,1,0,IT Hub,Semi-Furnished,Standard,5225052.0,270.3333333333333,2,Old
+1636.0,4,4,6,0,7,0,0,Budget Zone,Semi-Furnished,Good,8046020.0,204.5,0,Recent
+2018.0,4,5,15,1,5,1,1,Family Zone,Semi-Furnished,Premium,12564858.0,224.22222222222223,3,Mature
+1703.0,3,2,32,0,18,1,3,IT Hub,Unfurnished,Standard,8318418.0,340.6,4,Old
+1522.0,4,4,26,0,11,0,1,Developing Zone,Unfurnished,Good,5715811.0,190.25,1,Old
+1400.0,3,2,14,1,6,0,2,Family Zone,Semi-Furnished,Good,7993814.0,280.0,3,Mature
+1016.0,2,1,33,0,1,1,1,Family Zone,Semi-Furnished,Premium,7380620.0,338.6666666666667,2,Old
+1413.0,4,5,0,2,6,0,2,Developing Zone,Unfurnished,Standard,8968571.0,157.0,4,New
+2105.0,4,4,33,1,17,1,3,Premium Central,Semi-Furnished,Luxury,17054001.0,263.125,5,Old
+1388.0,3,2,12,0,20,0,1,IT Hub,Fully Furnished,Premium,9330139.0,277.6,1,Mature
+987.0,2,2,28,0,8,1,3,Budget Zone,Unfurnished,Standard,3751656.0,246.75,4,Old
+1194.0,3,2,33,1,2,0,2,Premium Central,Fully Furnished,Good,8717629.0,238.8,3,Old
+1554.0,4,5,21,1,14,1,2,IT Hub,Fully Furnished,Good,12105993.0,172.66666666666666,4,Old
+1256.0,3,3,21,1,19,0,1,Developing Zone,Semi-Furnished,Premium,7168602.0,209.33333333333334,2,Old
+1702.0,4,3,26,1,2,0,2,IT Hub,Semi-Furnished,Good,10951659.0,243.14285714285714,3,Old
+1722.0,2,2,8,1,20,0,1,Budget Zone,Unfurnished,Standard,7817057.0,430.5,2,Recent
+1912.0,4,3,6,1,5,1,3,Premium Central,Fully Furnished,Standard,15857821.0,273.14285714285717,5,Recent
+2190.0,4,5,12,2,7,1,2,Family Zone,Semi-Furnished,Luxury,15578609.0,243.33333333333334,5,Mature
+1968.0,3,3,16,1,15,1,1,Family Zone,Fully Furnished,Good,12637586.0,328.0,3,Mature
+964.0,4,2,26,1,2,0,3,Budget Zone,Semi-Furnished,Premium,3982767.0,160.66666666666666,4,Old
+980.0,2,2,9,1,8,1,2,Premium Central,Unfurnished,Good,8117116.0,245.0,4,Recent
+1411.0,3,4,19,2,4,0,1,Budget Zone,Unfurnished,Luxury,8044300.0,201.57142857142858,3,Mature
+1215.0,3,2,0,1,6,0,0,Developing Zone,Semi-Furnished,Standard,5240779.0,243.0,1,New
+858.0,1,1,1,2,19,1,0,Budget Zone,Semi-Furnished,Standard,6132896.0,429.0,3,New
+1220.0,2,2,33,2,6,1,0,IT Hub,Unfurnished,Luxury,7692058.0,305.0,3,Old
+1203.0,3,4,29,0,2,1,0,Developing Zone,Semi-Furnished,Luxury,6703258.0,171.85714285714286,1,Old
+1101.0,2,3,30,1,6,0,3,Premium Central,Fully Furnished,Good,8069284.0,220.2,4,Old
+1286.0,2,2,11,1,3,0,1,Family Zone,Semi-Furnished,Good,7654702.0,321.5,2,Mature
+2063.0,5,5,17,1,15,1,2,Budget Zone,Semi-Furnished,Good,9785622.0,206.3,4,Mature
+1554.0,4,5,23,1,24,0,2,Budget Zone,Unfurnished,Good,6397146.0,172.66666666666666,3,Old
+2735.0,5,5,8,2,5,0,2,Budget Zone,Fully Furnished,Standard,12600285.0,273.5,4,Recent
+1539.0,3,4,26,1,18,1,1,Family Zone,Semi-Furnished,Premium,8972128.0,219.85714285714286,3,Old
+1299.0,3,3,24,1,9,1,1,IT Hub,Fully Furnished,Good,8320781.0,216.5,3,Old
+1452.0,2,2,14,0,2,0,1,Developing Zone,Semi-Furnished,Premium,8731727.0,363.0,1,Mature
+1583.0,2,3,15,1,17,0,1,IT Hub,Semi-Furnished,Standard,7452187.0,316.6,2,Mature
+1676.0,3,3,10,2,6,1,1,Budget Zone,Unfurnished,Standard,7668176.0,279.3333333333333,4,Recent
+2530.0,4,3,28,1,13,0,2,IT Hub,Unfurnished,Premium,14519310.0,361.42857142857144,3,Old
+1010.0,2,1,34,0,13,0,0,Premium Central,Fully Furnished,Good,6119272.0,336.6666666666667,0,Old
+1897.0,3,3,34,2,15,0,1,IT Hub,Semi-Furnished,Premium,10298104.0,316.1666666666667,3,Old
+1558.0,3,4,26,2,4,1,1,IT Hub,Semi-Furnished,Standard,9127745.0,222.57142857142858,4,Old
+633.0,2,3,12,1,7,1,1,IT Hub,Fully Furnished,Luxury,8072228.0,126.6,3,Mature
+1851.0,5,5,27,0,18,0,2,Budget Zone,Fully Furnished,Premium,9376136.0,185.1,2,Old
+2109.0,4,4,8,1,23,0,0,Developing Zone,Fully Furnished,Premium,12621766.0,263.625,1,Recent
+1004.0,2,1,31,0,1,1,3,Budget Zone,Unfurnished,Standard,1800000.0,334.6666666666667,4,Old
+1445.0,3,4,9,1,10,1,2,Family Zone,Semi-Furnished,Good,9588551.0,206.42857142857142,4,Recent
+553.0,1,1,14,1,22,1,1,IT Hub,Fully Furnished,Good,5958278.0,276.5,3,Mature
+795.0,2,2,3,2,7,0,1,Family Zone,Semi-Furnished,Good,5583983.0,198.75,3,New
+1995.0,4,5,2,1,11,1,0,IT Hub,Unfurnished,Good,14334500.0,221.66666666666666,2,New
+1207.0,3,2,13,2,22,1,3,Budget Zone,Fully Furnished,Standard,6735782.0,241.4,6,Mature
+873.0,2,2,19,2,24,1,1,IT Hub,Semi-Furnished,Good,6397707.0,218.25,4,Mature
+1569.0,3,4,0,0,16,0,0,Developing Zone,Semi-Furnished,Good,11465977.0,224.14285714285714,0,New
+1178.0,2,1,29,0,17,1,1,Developing Zone,Fully Furnished,Good,4771142.0,392.6666666666667,2,Old
+1205.0,2,3,4,1,15,0,0,IT Hub,Semi-Furnished,Standard,8670309.0,241.0,1,Recent
+1834.0,3,3,34,1,7,0,1,Premium Central,Semi-Furnished,Good,11245753.0,305.6666666666667,2,Old
+846.0,1,1,9,1,22,0,1,Family Zone,Semi-Furnished,Good,5924557.0,423.0,2,Recent
+979.0,2,1,13,1,1,1,0,Budget Zone,Semi-Furnished,Good,5868739.0,326.3333333333333,2,Mature
+1530.0,4,5,5,1,2,0,2,Family Zone,Unfurnished,Good,9317952.0,170.0,3,Recent
+1954.0,3,2,28,1,15,1,1,Budget Zone,Fully Furnished,Good,8101548.0,390.8,3,Old
+2094.0,4,4,25,1,21,1,1,Premium Central,Fully Furnished,Premium,15770032.0,261.75,3,Old
+1104.0,2,3,2,0,20,1,2,IT Hub,Unfurnished,Good,7650613.0,220.8,3,New
+1937.0,4,5,3,0,17,0,3,Budget Zone,Semi-Furnished,Good,10813206.0,215.22222222222223,3,New
+1042.0,2,2,21,0,10,1,1,Budget Zone,Fully Furnished,Luxury,6286339.0,260.5,2,Old
+2400.0,5,5,30,2,9,0,3,Developing Zone,Unfurnished,Good,8957749.0,240.0,5,Old
+860.0,1,3,3,2,11,0,1,Premium Central,Semi-Furnished,Luxury,12180781.0,215.0,3,New
+2141.0,5,5,7,1,7,0,2,Family Zone,Semi-Furnished,Premium,13229378.0,214.1,3,Recent
+1109.0,2,1,19,0,11,0,1,IT Hub,Semi-Furnished,Standard,5271560.0,369.6666666666667,1,Mature
+2497.0,4,4,3,1,3,1,2,Family Zone,Unfurnished,Good,16452704.0,312.125,4,New
+1757.0,3,4,10,0,8,0,0,Family Zone,Semi-Furnished,Premium,10637360.0,251.0,0,Recent
+922.0,2,2,0,1,23,0,3,Budget Zone,Semi-Furnished,Luxury,7789537.0,230.5,4,New
+1178.0,3,2,17,1,17,1,3,Premium Central,Semi-Furnished,Good,8691852.0,235.6,5,Mature
+1856.0,4,3,25,2,4,0,1,Developing Zone,Unfurnished,Standard,5998850.0,265.14285714285717,3,Old
+1997.0,5,4,14,0,7,0,1,Family Zone,Semi-Furnished,Good,10694140.0,221.88888888888889,1,Mature
+1413.0,4,4,8,1,7,0,1,IT Hub,Semi-Furnished,Standard,9805201.0,176.625,2,Recent
+1473.0,3,3,14,2,7,0,1,Family Zone,Unfurnished,Premium,9743965.0,245.5,3,Mature
+1844.0,3,4,17,1,17,1,2,Premium Central,Unfurnished,Good,13673649.0,263.42857142857144,4,Mature
+1519.0,3,4,5,0,22,0,2,Budget Zone,Unfurnished,Premium,8176062.0,217.0,2,Recent
+777.0,1,1,3,2,18,0,1,Family Zone,Semi-Furnished,Premium,5366519.0,388.5,3,New
+1027.0,3,3,6,1,12,1,0,Developing Zone,Unfurnished,Good,7172550.0,171.16666666666666,2,Recent
+1572.0,3,4,34,1,4,0,3,Family Zone,Fully Furnished,Good,8254953.0,224.57142857142858,4,Old
+2082.0,4,5,25,1,4,1,0,Budget Zone,Semi-Furnished,Premium,11549035.0,231.33333333333334,2,Old
+2290.0,5,5,4,2,20,1,1,Budget Zone,Fully Furnished,Premium,13592032.0,229.0,4,Recent
+1855.0,5,4,10,1,17,0,0,Developing Zone,Fully Furnished,Premium,10217598.0,206.11111111111111,1,Recent
+1599.0,3,4,14,1,13,0,0,Developing Zone,Unfurnished,Standard,7115149.0,228.42857142857142,1,Mature
+1839.0,3,2,6,1,14,0,0,Developing Zone,Semi-Furnished,Good,9413780.0,367.8,1,Recent
+1103.0,3,3,29,0,21,0,1,Family Zone,Fully Furnished,Standard,4794749.0,183.83333333333334,1,Old
+1370.0,3,3,32,1,20,1,2,Family Zone,Semi-Furnished,Premium,7953683.0,228.33333333333334,4,Old
+1021.0,2,1,8,0,3,1,1,Developing Zone,Semi-Furnished,Good,4924248.0,340.3333333333333,2,Recent
+801.0,2,1,0,1,10,0,2,Developing Zone,Semi-Furnished,Good,4547031.0,267.0,3,New
+1623.0,3,3,9,1,2,0,2,Developing Zone,Unfurnished,Standard,7953217.0,270.5,3,Recent
+1546.0,3,3,20,1,10,0,0,Family Zone,Semi-Furnished,Good,9432187.0,257.6666666666667,1,Mature
+1808.0,3,3,28,1,16,1,0,Developing Zone,Fully Furnished,Premium,9620013.0,301.3333333333333,2,Old
+1734.0,2,2,11,1,6,1,1,Budget Zone,Fully Furnished,Standard,8862348.0,433.5,3,Mature
+1576.0,3,4,9,1,4,0,2,Developing Zone,Unfurnished,Standard,8690728.0,225.14285714285714,3,Recent
+1739.0,3,3,8,0,12,1,1,Family Zone,Semi-Furnished,Premium,11680369.0,289.8333333333333,2,Recent
+1428.0,2,1,0,2,13,0,1,Developing Zone,Semi-Furnished,Premium,9064558.0,476.0,3,New
+1665.0,4,4,0,2,18,1,2,Family Zone,Fully Furnished,Standard,12017937.0,208.125,5,New
+1072.0,2,2,14,1,1,1,0,Family Zone,Unfurnished,Good,7434054.0,268.0,2,Mature
+1642.0,3,2,21,1,6,1,2,IT Hub,Fully Furnished,Luxury,13300149.0,328.4,4,Old
+1798.0,3,3,0,0,19,0,0,Family Zone,Fully Furnished,Premium,12621213.0,299.6666666666667,0,New
+1102.0,2,2,7,0,17,0,2,Family Zone,Unfurnished,Good,5942516.0,275.5,2,Recent
+1477.0,3,4,31,1,22,1,1,Developing Zone,Unfurnished,Good,6381282.0,211.0,3,Old
+1126.0,3,3,34,2,20,0,2,IT Hub,Fully Furnished,Good,6855689.0,187.66666666666666,4,Old
+1176.0,2,2,22,1,21,0,0,Family Zone,Unfurnished,Standard,4500700.0,294.0,1,Old
+865.0,2,3,18,1,13,1,1,Family Zone,Semi-Furnished,Premium,7905122.0,173.0,3,Mature
+2108.0,5,5,20,2,24,1,0,Family Zone,Fully Furnished,Standard,9813576.0,210.8,3,Mature
+2004.0,4,5,12,1,10,1,2,Developing Zone,Semi-Furnished,Standard,10799284.0,222.66666666666666,4,Mature
+1729.0,3,3,7,1,22,1,0,Family Zone,Semi-Furnished,Premium,11561669.0,288.1666666666667,2,Recent
+2476.0,5,5,13,1,10,1,0,IT Hub,Semi-Furnished,Luxury,16942593.0,247.6,2,Mature
+1352.0,3,3,24,0,11,0,2,Premium Central,Unfurnished,Premium,10396462.0,225.33333333333334,2,Old
+3027.0,5,5,23,2,17,1,0,Premium Central,Fully Furnished,Good,22010122.0,302.7,3,Old
+1332.0,3,2,23,1,10,1,1,Family Zone,Semi-Furnished,Good,7144399.0,266.4,3,Old
+1583.0,2,2,21,1,4,1,2,Family Zone,Unfurnished,Good,10110336.0,395.75,4,Old
+1243.0,2,1,2,1,22,0,2,IT Hub,Unfurnished,Good,9665168.0,414.3333333333333,3,New
+1644.0,3,3,21,2,11,0,2,Developing Zone,Fully Furnished,Good,9526838.0,274.0,4,Old
+1885.0,4,5,30,1,23,1,1,IT Hub,Unfurnished,Good,11508139.0,209.44444444444446,3,Old
+1391.0,2,2,22,1,10,0,1,Family Zone,Fully Furnished,Good,7490052.0,347.75,2,Old
+2374.0,4,5,20,0,24,0,2,Budget Zone,Semi-Furnished,Premium,12294620.0,263.77777777777777,2,Mature
+1574.0,3,2,7,2,15,1,0,Budget Zone,Fully Furnished,Luxury,11506131.0,314.8,3,Recent
+1591.0,4,4,27,1,19,1,2,IT Hub,Fully Furnished,Standard,9115909.0,198.875,4,Old
+977.0,2,2,15,1,19,0,0,Budget Zone,Fully Furnished,Good,3657798.0,244.25,1,Mature
+1668.0,4,4,9,2,5,0,3,Developing Zone,Fully Furnished,Standard,10230754.0,208.5,5,Recent
+1380.0,2,1,17,0,20,0,2,Developing Zone,Unfurnished,Good,5710718.0,460.0,2,Mature
+1134.0,3,3,4,1,23,1,1,Budget Zone,Fully Furnished,Good,6327336.0,189.0,3,Recent
+1046.0,2,2,32,1,16,1,1,Developing Zone,Semi-Furnished,Standard,4123928.0,261.5,3,Old
+2839.0,6,5,24,1,23,0,1,IT Hub,Semi-Furnished,Premium,17432292.0,258.09090909090907,2,Old
+1313.0,3,4,11,1,21,0,1,Budget Zone,Fully Furnished,Good,7675008.0,187.57142857142858,2,Mature
+692.0,2,2,27,1,16,0,2,IT Hub,Fully Furnished,Luxury,6584014.0,173.0,3,Old
+1087.0,2,1,1,0,12,0,1,IT Hub,Semi-Furnished,Standard,6533890.0,362.3333333333333,1,New
+1423.0,3,3,13,0,21,0,1,Developing Zone,Semi-Furnished,Standard,6831160.0,237.16666666666666,1,Mature
+1734.0,4,3,22,0,5,1,1,Budget Zone,Semi-Furnished,Good,6702265.0,247.71428571428572,2,Old
+1738.0,3,3,0,2,14,0,2,Family Zone,Semi-Furnished,Standard,10585958.0,289.6666666666667,4,New
+1802.0,3,3,24,1,20,0,1,Budget Zone,Semi-Furnished,Good,6519096.0,300.3333333333333,2,Old
+1115.0,2,3,28,1,23,0,1,Developing Zone,Semi-Furnished,Luxury,7585877.0,223.0,2,Old
+1627.0,3,4,20,1,7,0,3,Premium Central,Unfurnished,Standard,10959257.0,232.42857142857142,4,Mature
+994.0,2,3,7,1,3,0,1,Premium Central,Unfurnished,Standard,8741383.0,198.8,2,Recent
+1128.0,2,3,26,0,9,0,1,IT Hub,Fully Furnished,Good,8358768.0,225.6,1,Old
+973.0,2,3,11,1,21,0,3,Developing Zone,Semi-Furnished,Good,5581753.0,194.6,4,Mature
+832.0,1,1,25,1,13,0,1,IT Hub,Fully Furnished,Good,2533712.0,416.0,2,Old
+2003.0,4,4,21,1,2,1,3,IT Hub,Semi-Furnished,Good,14194691.0,250.375,5,Old
+1808.0,3,4,3,1,3,0,2,Developing Zone,Unfurnished,Premium,10715825.0,258.2857142857143,3,New
+1958.0,4,5,3,2,9,1,2,Family Zone,Unfurnished,Standard,11665864.0,217.55555555555554,5,New
+1470.0,4,5,0,2,9,1,1,Budget Zone,Unfurnished,Good,8908054.0,163.33333333333334,4,New
+1854.0,3,2,2,0,4,0,0,Developing Zone,Fully Furnished,Premium,10483468.0,370.8,0,New
+534.0,1,1,10,0,12,0,1,Family Zone,Unfurnished,Premium,5129410.0,267.0,1,Recent
+1899.0,2,1,0,0,12,0,0,Budget Zone,Semi-Furnished,Good,8743350.0,633.0,0,New
+1542.0,3,4,32,1,5,0,0,Budget Zone,Fully Furnished,Good,7025179.0,220.28571428571428,1,Old
+1776.0,3,3,32,2,6,1,1,IT Hub,Fully Furnished,Standard,10970942.0,296.0,4,Old
+1648.0,3,3,6,2,16,0,2,Premium Central,Unfurnished,Standard,12287820.0,274.6666666666667,4,Recent
+937.0,3,4,10,1,23,1,0,Family Zone,Unfurnished,Standard,5381327.0,133.85714285714286,2,Recent
+671.0,2,2,25,2,24,1,2,IT Hub,Unfurnished,Premium,6140472.0,167.75,5,Old
+1080.0,2,3,23,1,14,1,3,Premium Central,Unfurnished,Good,9275263.0,216.0,5,Old
+1744.0,3,2,20,2,1,1,2,Budget Zone,Unfurnished,Premium,9543193.0,348.8,5,Mature
+1809.0,4,5,34,1,22,1,2,Family Zone,Semi-Furnished,Standard,8389151.0,201.0,4,Old
+739.0,2,2,22,0,23,1,2,Developing Zone,Fully Furnished,Premium,5411485.0,184.75,3,Old
+940.0,2,1,23,0,7,1,1,Budget Zone,Semi-Furnished,Premium,5196436.0,313.3333333333333,2,Old
+1074.0,1,1,17,2,10,0,1,IT Hub,Semi-Furnished,Standard,6093687.0,537.0,3,Mature
+1264.0,2,3,18,1,1,0,3,Family Zone,Unfurnished,Standard,5149410.0,252.8,4,Mature
+742.0,2,2,10,1,20,0,2,Family Zone,Fully Furnished,Standard,4179724.0,185.5,3,Recent
+711.0,3,3,18,1,19,0,2,Budget Zone,Semi-Furnished,Premium,4486338.0,118.5,3,Mature
+1023.0,2,1,32,1,1,1,3,Developing Zone,Fully Furnished,Standard,4817586.0,341.0,5,Old
+1495.0,2,3,13,2,17,0,1,Premium Central,Fully Furnished,Good,13588900.0,299.0,3,Mature
+836.0,1,1,4,0,10,1,1,Budget Zone,Semi-Furnished,Good,4034078.0,418.0,2,Recent
+1390.0,3,2,20,0,14,1,2,Developing Zone,Unfurnished,Premium,6890389.0,278.0,3,Mature
+2000.0,3,2,27,1,6,0,0,Developing Zone,Unfurnished,Good,7617924.0,400.0,1,Old
+773.0,2,3,33,1,20,1,1,Family Zone,Semi-Furnished,Good,4711437.0,154.6,3,Old
+1343.0,3,3,18,0,10,0,2,Family Zone,Fully Furnished,Luxury,8982173.0,223.83333333333334,2,Mature
+1983.0,4,3,27,0,21,1,1,Family Zone,Semi-Furnished,Standard,8546273.0,283.2857142857143,2,Old
+1233.0,2,2,8,0,4,1,1,Budget Zone,Fully Furnished,Premium,6461017.0,308.25,2,Recent
+1152.0,3,4,14,1,15,0,2,Developing Zone,Semi-Furnished,Standard,6528467.0,164.57142857142858,3,Mature
+2055.0,4,5,14,0,8,1,0,IT Hub,Unfurnished,Good,12977661.0,228.33333333333334,1,Mature
+1291.0,2,2,11,0,24,0,2,Family Zone,Semi-Furnished,Premium,7579223.0,322.75,2,Mature
+2024.0,5,5,25,1,14,1,0,Family Zone,Semi-Furnished,Premium,11747334.0,202.4,2,Old
+1673.0,3,2,30,2,18,1,2,Family Zone,Semi-Furnished,Premium,10774088.0,334.6,5,Old
+1272.0,3,4,11,2,3,0,1,IT Hub,Semi-Furnished,Good,8712570.0,181.71428571428572,3,Mature
+1699.0,2,2,4,1,17,1,1,Budget Zone,Unfurnished,Good,7712936.0,424.75,3,Recent
+1617.0,4,4,28,1,3,1,1,Developing Zone,Semi-Furnished,Good,9043427.0,202.125,3,Old
+1981.0,5,5,29,2,9,1,1,Family Zone,Unfurnished,Good,10821821.0,198.1,4,Old
+1165.0,2,3,32,1,6,1,1,Developing Zone,Fully Furnished,Good,6550779.0,233.0,3,Old
+1471.0,3,2,8,1,1,1,2,IT Hub,Unfurnished,Good,10751801.0,294.2,4,Recent
+1418.0,3,3,25,1,15,0,2,Family Zone,Unfurnished,Good,6988471.0,236.33333333333334,3,Old
+1816.0,3,3,25,1,6,1,0,IT Hub,Semi-Furnished,Good,10844435.0,302.6666666666667,2,Old
+917.0,2,3,27,1,13,1,2,IT Hub,Semi-Furnished,Good,7092250.0,183.4,4,Old
+1979.0,3,4,28,1,19,0,2,Family Zone,Semi-Furnished,Standard,10130319.0,282.7142857142857,3,Old
+1692.0,3,2,33,0,5,0,2,Premium Central,Semi-Furnished,Premium,12238882.0,338.4,2,Old
+765.0,3,3,16,2,18,0,1,Family Zone,Fully Furnished,Good,4781636.0,127.5,3,Mature
+2078.0,5,5,2,1,8,0,0,IT Hub,Semi-Furnished,Standard,14989852.0,207.8,1,New
+2612.0,4,4,6,1,8,0,3,Developing Zone,Semi-Furnished,Premium,14543258.0,326.5,4,Recent
+1971.0,3,3,31,0,14,0,1,Family Zone,Semi-Furnished,Premium,9017057.0,328.5,1,Old
+2192.0,4,5,29,1,16,1,1,Family Zone,Unfurnished,Standard,10118773.0,243.55555555555554,3,Old
+1494.0,3,3,0,1,16,0,2,Budget Zone,Semi-Furnished,Standard,8256596.0,249.0,3,New
+586.0,1,1,12,0,5,0,1,Developing Zone,Unfurnished,Standard,2387618.0,293.0,1,Mature
+491.0,2,1,8,1,14,1,2,Premium Central,Semi-Furnished,Standard,4723428.0,163.66666666666666,4,Recent
+1583.0,4,3,11,1,7,0,0,Family Zone,Unfurnished,Premium,10370331.0,226.14285714285714,1,Mature
+1142.0,2,3,22,2,7,0,2,Budget Zone,Fully Furnished,Luxury,7912815.0,228.4,4,Old
+974.0,3,3,17,0,23,1,3,Developing Zone,Semi-Furnished,Standard,4490126.0,162.33333333333334,4,Mature
+1417.0,3,3,16,2,3,1,3,Developing Zone,Fully Furnished,Premium,9454168.0,236.16666666666666,6,Mature
+1770.0,3,3,15,1,10,1,3,Budget Zone,Semi-Furnished,Standard,8418111.0,295.0,5,Mature
+695.0,1,1,22,0,11,0,2,Premium Central,Unfurnished,Good,4177754.0,347.5,2,Old
+1217.0,3,4,23,0,6,0,1,Family Zone,Fully Furnished,Premium,6381813.0,173.85714285714286,1,Old
+2235.0,4,5,1,0,19,1,3,Developing Zone,Semi-Furnished,Good,13954445.0,248.33333333333334,4,New
+891.0,2,2,4,1,12,1,3,Family Zone,Fully Furnished,Standard,6724016.0,222.75,5,Recent
+1902.0,4,5,11,1,18,1,1,Budget Zone,Semi-Furnished,Good,11193048.0,211.33333333333334,3,Mature
+1198.0,2,1,15,1,10,1,1,Developing Zone,Semi-Furnished,Luxury,7168909.0,399.3333333333333,3,Mature
+1734.0,3,3,34,0,22,0,0,IT Hub,Fully Furnished,Good,8860658.0,289.0,0,Old
+2021.0,5,5,31,2,18,0,1,Family Zone,Semi-Furnished,Standard,8921804.0,202.1,3,Old
+1835.0,4,4,22,0,8,1,2,Premium Central,Semi-Furnished,Standard,11969180.0,229.375,3,Old
+1923.0,3,2,1,1,24,1,1,Family Zone,Semi-Furnished,Good,11747680.0,384.6,3,New
+851.0,2,3,3,2,21,0,1,Family Zone,Semi-Furnished,Good,8631615.0,170.2,3,New
+2029.0,4,3,16,2,15,1,1,IT Hub,Fully Furnished,Premium,15277809.0,289.85714285714283,4,Mature
+1007.0,4,3,20,1,1,0,0,Premium Central,Semi-Furnished,Premium,7614915.0,143.85714285714286,1,Mature
+1585.0,3,4,23,1,15,1,3,IT Hub,Semi-Furnished,Premium,10071474.0,226.42857142857142,5,Old
+1584.0,3,4,4,0,17,0,1,Premium Central,Fully Furnished,Premium,12512198.0,226.28571428571428,1,Recent
+1702.0,4,4,31,0,9,1,0,IT Hub,Semi-Furnished,Standard,8408071.0,212.75,1,Old
+1625.0,2,1,17,1,4,0,0,IT Hub,Semi-Furnished,Good,8998681.0,541.6666666666666,1,Mature
+1011.0,2,2,20,0,14,1,2,Budget Zone,Semi-Furnished,Good,4597624.0,252.75,3,Mature
+748.0,3,3,1,1,20,1,2,IT Hub,Unfurnished,Good,5231947.0,124.66666666666667,4,New
+1904.0,4,5,28,0,8,0,0,Family Zone,Semi-Furnished,Luxury,10773903.0,211.55555555555554,0,Old
+1547.0,2,3,19,2,11,1,0,Family Zone,Unfurnished,Premium,10737045.0,309.4,3,Mature
+2048.0,4,4,7,2,1,1,1,Family Zone,Unfurnished,Luxury,15939349.0,256.0,4,Recent
+1427.0,4,5,11,2,17,1,1,Premium Central,Semi-Furnished,Good,11209570.0,158.55555555555554,4,Mature
+719.0,2,1,12,1,21,0,2,Premium Central,Semi-Furnished,Good,5415031.0,239.66666666666666,3,Mature
+1952.0,3,3,0,0,19,1,0,Developing Zone,Fully Furnished,Good,10719590.0,325.3333333333333,1,New
+1257.0,2,2,32,0,11,1,1,IT Hub,Unfurnished,Standard,5669957.0,314.25,2,Old
+1628.0,3,2,28,1,2,1,1,IT Hub,Unfurnished,Standard,7232837.0,325.6,3,Old
+1113.0,3,2,31,1,12,0,1,Developing Zone,Fully Furnished,Good,6428637.0,222.6,2,Old
+2305.0,5,5,12,1,23,1,1,Budget Zone,Unfurnished,Standard,9843020.0,230.5,3,Mature
+994.0,3,4,19,1,3,0,0,Budget Zone,Unfurnished,Luxury,5837748.0,142.0,1,Mature
+1275.0,3,3,16,1,6,0,1,IT Hub,Unfurnished,Standard,8677042.0,212.5,2,Mature
+1506.0,2,2,16,0,21,0,0,Family Zone,Semi-Furnished,Standard,6629781.0,376.5,0,Mature
+882.0,1,1,20,1,14,0,0,Premium Central,Fully Furnished,Premium,7908225.0,441.0,1,Mature
+1622.0,4,3,15,1,5,0,3,Family Zone,Fully Furnished,Standard,8364170.0,231.71428571428572,4,Mature
+2288.0,3,4,27,1,1,0,1,Premium Central,Semi-Furnished,Luxury,16219716.0,326.85714285714283,2,Old
+1195.0,2,1,2,2,10,1,1,Developing Zone,Unfurnished,Premium,8279675.0,398.3333333333333,4,New
+1655.0,3,3,6,1,15,1,0,IT Hub,Semi-Furnished,Standard,13188598.0,275.8333333333333,2,Recent
+450.0,1,1,31,1,21,0,2,Budget Zone,Semi-Furnished,Premium,2586219.0,225.0,3,Old
+1430.0,2,2,30,2,22,1,3,Family Zone,Unfurnished,Good,7743801.0,357.5,6,Old
+1287.0,3,3,28,0,11,1,2,IT Hub,Unfurnished,Premium,7346392.0,214.5,3,Old
+1024.0,3,4,12,1,11,1,1,Premium Central,Semi-Furnished,Premium,11230390.0,146.28571428571428,3,Mature
+2012.0,5,5,15,1,23,1,2,IT Hub,Unfurnished,Premium,13102604.0,201.2,4,Mature
+1280.0,3,2,0,1,19,1,1,Budget Zone,Semi-Furnished,Good,6394249.0,256.0,3,New
+1358.0,3,4,9,0,6,1,2,Developing Zone,Semi-Furnished,Good,7955602.0,194.0,3,Recent
+1254.0,2,2,25,2,17,1,2,Budget Zone,Unfurnished,Premium,8150822.0,313.5,5,Old
+453.0,1,2,12,2,18,1,0,Budget Zone,Semi-Furnished,Luxury,7415315.0,151.0,3,Mature
+861.0,2,1,16,0,6,0,1,Family Zone,Fully Furnished,Good,4574031.0,287.0,1,Mature
+1950.0,4,4,4,0,24,1,1,IT Hub,Semi-Furnished,Premium,13954021.0,243.75,2,Recent
+450.0,1,1,17,0,8,1,0,IT Hub,Fully Furnished,Good,2323474.0,225.0,1,Mature
+1052.0,1,1,25,1,14,1,2,IT Hub,Semi-Furnished,Premium,7682516.0,526.0,4,Old
+1242.0,2,2,20,1,12,1,0,IT Hub,Fully Furnished,Luxury,10486459.0,310.5,2,Mature
+2357.0,5,5,19,0,17,0,2,IT Hub,Unfurnished,Standard,13742809.0,235.7,2,Mature
+1850.0,4,4,32,2,22,0,3,Budget Zone,Semi-Furnished,Standard,7474137.0,231.25,5,Old
+1160.0,2,2,8,1,10,1,1,Developing Zone,Unfurnished,Good,6869320.0,290.0,3,Recent
+2128.0,6,5,10,1,10,1,1,Family Zone,Semi-Furnished,Good,13725537.0,193.45454545454547,3,Recent
+1065.0,2,1,21,1,19,1,1,IT Hub,Semi-Furnished,Good,6253785.0,355.0,3,Old
+1975.0,4,4,16,1,23,1,2,Budget Zone,Unfurnished,Standard,8649088.0,246.875,4,Mature
+743.0,2,2,34,1,22,1,1,Family Zone,Fully Furnished,Good,3493563.0,185.75,3,Old
+2008.0,4,4,2,1,19,1,1,Family Zone,Semi-Furnished,Good,13424145.0,251.0,3,New
+1239.0,2,1,4,1,17,0,1,Budget Zone,Unfurnished,Good,6258881.0,413.0,2,Recent
+915.0,3,2,11,2,19,1,3,Developing Zone,Unfurnished,Premium,7329923.0,183.0,6,Mature
+1337.0,3,3,16,1,23,0,1,Premium Central,Semi-Furnished,Premium,11762418.0,222.83333333333334,2,Mature
+1594.0,4,5,31,2,1,1,1,Family Zone,Semi-Furnished,Good,7659817.0,177.11111111111111,4,Old
+1193.0,3,3,17,1,15,0,3,Developing Zone,Semi-Furnished,Premium,6642175.0,198.83333333333334,4,Mature
+1738.0,3,2,15,1,1,1,0,IT Hub,Unfurnished,Good,10602418.0,347.6,2,Mature
+1147.0,3,3,5,1,14,0,0,Developing Zone,Fully Furnished,Good,6308463.0,191.16666666666666,1,Recent
+1773.0,3,4,15,1,10,0,1,IT Hub,Fully Furnished,Good,11743334.0,253.28571428571428,2,Mature
+1680.0,3,3,18,1,8,1,0,Developing Zone,Semi-Furnished,Standard,7623833.0,280.0,2,Mature
+1418.0,2,2,20,0,22,1,1,Family Zone,Semi-Furnished,Good,8708987.0,354.5,2,Mature
+1220.0,1,1,21,0,18,0,1,Developing Zone,Fully Furnished,Good,5557280.0,610.0,1,Old
+1529.0,3,3,15,0,14,1,2,Developing Zone,Fully Furnished,Premium,10573287.0,254.83333333333334,3,Mature
+1736.0,3,3,5,2,22,0,1,Premium Central,Semi-Furnished,Premium,15486603.0,289.3333333333333,3,Recent
+2522.0,3,3,5,2,3,0,1,Developing Zone,Fully Furnished,Standard,12585299.0,420.3333333333333,3,Recent
+1938.0,4,4,5,1,16,0,1,Budget Zone,Fully Furnished,Good,10119005.0,242.25,2,Recent
+1958.0,5,5,21,0,4,1,2,Developing Zone,Fully Furnished,Standard,10235084.0,195.8,3,Old
+3056.0,6,5,29,2,6,1,2,IT Hub,Semi-Furnished,Premium,20931525.0,277.8181818181818,5,Old
+1718.0,3,2,30,1,5,1,2,IT Hub,Unfurnished,Premium,10400513.0,343.6,4,Old
+1702.0,3,4,10,1,14,1,2,Premium Central,Unfurnished,Good,12496712.0,243.14285714285714,4,Recent
+1816.0,4,3,2,1,16,1,2,Developing Zone,Semi-Furnished,Good,9566178.0,259.42857142857144,4,New
+925.0,3,2,22,1,19,1,2,Developing Zone,Semi-Furnished,Good,4916229.0,185.0,4,Old
+1219.0,2,2,1,0,11,1,0,Budget Zone,Semi-Furnished,Good,4882719.0,304.75,1,New
+1187.0,3,3,21,1,23,0,3,Family Zone,Semi-Furnished,Premium,9259242.0,197.83333333333334,4,Old
+1787.0,4,3,13,1,9,0,2,Premium Central,Semi-Furnished,Premium,15185772.0,255.28571428571428,3,Mature
+1359.0,3,4,29,0,4,0,1,IT Hub,Fully Furnished,Good,7317196.0,194.14285714285714,1,Old
+1522.0,3,4,21,1,1,1,0,Family Zone,Unfurnished,Good,7320805.0,217.42857142857142,2,Old
+2015.0,4,4,25,1,4,1,1,Developing Zone,Unfurnished,Standard,9498307.0,251.875,3,Old
+1899.0,5,5,14,1,11,0,1,Premium Central,Fully Furnished,Standard,13384491.0,189.9,2,Mature
+1366.0,4,3,29,2,10,1,2,Family Zone,Fully Furnished,Standard,6654260.0,195.14285714285714,5,Old
+1102.0,3,4,18,2,21,1,1,Budget Zone,Fully Furnished,Good,6214789.0,157.42857142857142,4,Mature
+2040.0,5,5,21,1,4,0,0,Developing Zone,Fully Furnished,Luxury,12040679.0,204.0,1,Old
+1852.0,3,3,12,1,7,0,1,Budget Zone,Fully Furnished,Good,9475358.0,308.6666666666667,2,Mature
+615.0,3,3,15,1,24,0,2,Developing Zone,Semi-Furnished,Standard,4406405.0,102.5,3,Mature
+1287.0,3,4,29,1,1,0,0,Budget Zone,Semi-Furnished,Standard,4885064.0,183.85714285714286,1,Old
+1536.0,5,5,13,0,11,1,2,Family Zone,Unfurnished,Good,9411040.0,153.6,3,Mature
+1855.0,3,4,0,1,5,1,1,Family Zone,Semi-Furnished,Premium,14279390.0,265.0,3,New
+1923.0,3,4,13,1,13,0,1,Developing Zone,Fully Furnished,Good,9942700.0,274.7142857142857,2,Mature
+1598.0,3,1,13,1,24,0,1,Developing Zone,Semi-Furnished,Premium,7012821.0,399.5,2,Mature
+1754.0,4,4,14,2,6,0,1,Premium Central,Semi-Furnished,Premium,14285526.0,219.25,3,Mature
+1483.0,4,4,2,1,9,0,2,IT Hub,Unfurnished,Standard,9441118.0,185.375,3,New
+1100.0,2,2,4,1,11,0,2,Family Zone,Unfurnished,Good,6690612.0,275.0,3,Recent
+1314.0,3,2,11,0,20,1,0,Developing Zone,Unfurnished,Luxury,7440363.0,262.8,1,Mature
+1460.0,4,4,14,0,24,1,1,Premium Central,Unfurnished,Good,10773561.0,182.5,2,Mature
+1432.0,3,3,1,1,3,1,2,Developing Zone,Fully Furnished,Standard,9782415.0,238.66666666666666,4,New
+470.0,1,2,13,1,12,0,2,Developing Zone,Semi-Furnished,Luxury,6897731.0,156.66666666666666,3,Mature
+1243.0,3,4,11,0,19,1,1,Premium Central,Fully Furnished,Premium,10230736.0,177.57142857142858,2,Mature
+1479.0,4,3,1,0,1,0,2,Family Zone,Semi-Furnished,Good,8283255.0,211.28571428571428,2,New
+1304.0,3,3,8,0,20,0,0,IT Hub,Unfurnished,Good,7497074.0,217.33333333333334,0,Recent
+1322.0,3,3,9,1,6,1,0,Family Zone,Unfurnished,Standard,8217856.0,220.33333333333334,2,Recent
+1704.0,3,4,5,1,13,1,2,Family Zone,Fully Furnished,Premium,12741163.0,243.42857142857142,4,Recent
+889.0,2,2,26,1,24,0,2,Developing Zone,Unfurnished,Good,2927102.0,222.25,3,Old
+603.0,2,3,2,0,16,1,2,Developing Zone,Fully Furnished,Standard,5787660.0,120.6,3,New
+1269.0,3,2,20,0,24,1,1,Developing Zone,Unfurnished,Premium,7450551.0,253.8,2,Mature
+1847.0,3,3,23,0,15,1,1,Budget Zone,Semi-Furnished,Luxury,9261906.0,307.8333333333333,2,Old
+2328.0,4,4,28,1,6,1,2,IT Hub,Fully Furnished,Premium,14896835.0,291.0,4,Old
+1857.0,3,3,19,0,17,0,1,Developing Zone,Unfurnished,Good,8157652.0,309.5,1,Mature
+687.0,2,2,18,1,15,1,1,Family Zone,Unfurnished,Standard,3396707.0,171.75,3,Mature
+1329.0,3,3,26,2,8,0,2,IT Hub,Fully Furnished,Luxury,10481064.0,221.5,4,Old
+1583.0,3,4,29,1,2,0,1,IT Hub,Unfurnished,Luxury,9944992.0,226.14285714285714,2,Old
+1542.0,3,3,7,2,16,1,1,Family Zone,Semi-Furnished,Good,11391053.0,257.0,4,Recent
+1730.0,3,2,27,0,14,1,1,Family Zone,Semi-Furnished,Good,8707812.0,346.0,2,Old
+973.0,3,3,16,1,19,0,2,Premium Central,Unfurnished,Good,8443959.0,162.16666666666666,3,Mature
+1484.0,3,1,3,2,4,1,1,Family Zone,Fully Furnished,Good,11828430.0,371.0,4,New
+1669.0,3,3,21,1,13,1,0,IT Hub,Fully Furnished,Standard,10736019.0,278.1666666666667,2,Old
+1879.0,4,5,34,1,20,1,0,Premium Central,Semi-Furnished,Standard,11768215.0,208.77777777777777,2,Old
+1031.0,1,2,4,2,22,0,0,IT Hub,Fully Furnished,Standard,8752158.0,343.6666666666667,2,Recent
+1271.0,2,3,0,1,23,0,1,Developing Zone,Unfurnished,Premium,9002298.0,254.2,2,New
+450.0,2,1,32,1,6,0,1,Family Zone,Unfurnished,Standard,2594831.0,150.0,2,Old
+1127.0,1,1,20,1,5,0,0,Budget Zone,Semi-Furnished,Standard,3727483.0,563.5,1,Mature
+1177.0,3,3,7,0,14,0,1,Family Zone,Fully Furnished,Good,8469527.0,196.16666666666666,1,Recent
+920.0,3,3,27,0,12,0,0,Premium Central,Unfurnished,Standard,4841502.0,153.33333333333334,0,Old
+1536.0,3,3,13,0,6,0,1,Family Zone,Unfurnished,Standard,7121155.0,256.0,1,Mature
+1421.0,3,4,11,2,3,0,0,Family Zone,Semi-Furnished,Good,8836472.0,203.0,2,Mature
+450.0,2,3,10,1,4,1,1,Budget Zone,Fully Furnished,Good,4896319.0,90.0,3,Recent
+1562.0,3,2,20,1,9,1,2,Premium Central,Unfurnished,Good,12049490.0,312.4,4,Mature
+967.0,3,2,4,0,18,0,2,Budget Zone,Semi-Furnished,Luxury,8101139.0,193.4,2,Recent
+1703.0,3,3,12,1,2,1,1,Budget Zone,Semi-Furnished,Standard,7892676.0,283.8333333333333,3,Mature
+783.0,1,1,10,2,3,0,2,Developing Zone,Semi-Furnished,Luxury,6632000.0,391.5,4,Recent
+1466.0,2,1,2,1,7,0,2,Budget Zone,Unfurnished,Luxury,8654451.0,488.6666666666667,3,New
+1303.0,3,3,26,1,21,1,0,Family Zone,Unfurnished,Premium,6183669.0,217.16666666666666,2,Old
+1608.0,4,3,0,2,24,0,1,Family Zone,Semi-Furnished,Good,12379124.0,229.71428571428572,3,New
+1515.0,3,4,33,2,11,0,2,Developing Zone,Semi-Furnished,Good,6650944.0,216.42857142857142,4,Old
+1317.0,2,1,3,2,2,0,1,Budget Zone,Fully Furnished,Good,8567386.0,439.0,3,New
+651.0,1,1,12,1,1,1,1,Budget Zone,Semi-Furnished,Premium,5287966.0,325.5,3,Mature
+682.0,2,1,3,0,21,1,1,Developing Zone,Semi-Furnished,Standard,4502759.0,227.33333333333334,2,New
+1146.0,4,4,12,1,11,0,0,Budget Zone,Fully Furnished,Luxury,8070517.0,143.25,1,Mature
+1446.0,3,3,21,1,2,0,3,IT Hub,Semi-Furnished,Good,8547605.0,241.0,4,Old
+1134.0,2,1,3,2,21,0,0,Developing Zone,Semi-Furnished,Premium,7076118.0,378.0,2,New
+1775.0,4,5,18,0,13,1,0,Developing Zone,Fully Furnished,Good,11260619.0,197.22222222222223,1,Mature
+1305.0,3,2,27,1,9,0,0,Developing Zone,Unfurnished,Standard,4273565.0,261.0,1,Old
+948.0,2,2,15,2,11,1,1,Developing Zone,Semi-Furnished,Good,7429341.0,237.0,4,Mature
+1305.0,2,2,3,2,6,1,2,Budget Zone,Fully Furnished,Good,10110266.0,326.25,5,New
+1567.0,4,5,24,1,23,0,2,Budget Zone,Unfurnished,Good,6039428.0,174.11111111111111,3,Old
+1619.0,2,1,6,2,19,1,3,IT Hub,Semi-Furnished,Good,12596891.0,539.6666666666666,6,Recent
+2427.0,5,4,0,0,5,0,1,Budget Zone,Unfurnished,Standard,10064900.0,269.6666666666667,1,New
+1102.0,2,2,15,1,18,0,1,Family Zone,Unfurnished,Good,4852316.0,275.5,2,Mature
+1412.0,3,3,9,0,5,0,1,Family Zone,Semi-Furnished,Good,8020116.0,235.33333333333334,1,Recent
+1672.0,4,5,0,2,11,0,0,Developing Zone,Unfurnished,Luxury,12611156.0,185.77777777777777,2,New
+1438.0,2,3,27,2,18,1,2,Family Zone,Fully Furnished,Standard,7500226.0,287.6,5,Old
+1190.0,2,2,20,0,1,1,1,IT Hub,Fully Furnished,Good,7645001.0,297.5,2,Mature
+644.0,1,1,31,0,18,0,1,IT Hub,Fully Furnished,Good,2769306.0,322.0,1,Old
+1184.0,3,2,16,1,6,0,1,Developing Zone,Unfurnished,Good,7638176.0,236.8,2,Mature
+892.0,2,1,15,1,17,1,2,Developing Zone,Unfurnished,Good,3375756.0,297.3333333333333,4,Mature
+552.0,1,1,29,2,12,0,1,Developing Zone,Unfurnished,Good,2514879.0,276.0,3,Old
+1036.0,2,2,2,0,1,0,2,Family Zone,Unfurnished,Luxury,8025339.0,259.0,2,New
+906.0,3,4,12,1,19,1,2,IT Hub,Fully Furnished,Good,7691275.0,129.42857142857142,4,Mature
+1754.0,3,4,27,1,7,1,2,Developing Zone,Semi-Furnished,Premium,9486712.0,250.57142857142858,4,Old
+1763.0,4,3,10,1,23,1,0,Developing Zone,Unfurnished,Standard,9070239.0,251.85714285714286,2,Recent
+980.0,2,1,30,0,21,0,0,Premium Central,Fully Furnished,Good,6425351.0,326.6666666666667,0,Old
+1315.0,2,2,9,2,5,0,1,Budget Zone,Semi-Furnished,Good,7096965.0,328.75,3,Recent
+484.0,2,2,14,1,15,0,2,Family Zone,Unfurnished,Standard,3545203.0,121.0,3,Mature
+1193.0,2,3,31,1,9,1,3,IT Hub,Unfurnished,Good,8365942.0,238.6,5,Old
+1657.0,3,2,8,1,15,0,1,Budget Zone,Semi-Furnished,Premium,9475228.0,331.4,2,Recent
+1879.0,4,3,33,2,14,0,1,Budget Zone,Fully Furnished,Premium,7851457.0,268.42857142857144,3,Old
+1079.0,2,1,1,2,8,0,1,Budget Zone,Unfurnished,Good,6702027.0,359.6666666666667,3,New
+1997.0,3,4,9,2,16,1,2,Premium Central,Fully Furnished,Good,17706373.0,285.2857142857143,5,Recent
+662.0,2,2,20,1,7,1,1,Budget Zone,Fully Furnished,Good,3564272.0,165.5,3,Mature
+801.0,2,2,20,2,22,1,1,Developing Zone,Fully Furnished,Standard,3361705.0,200.25,4,Mature
+1819.0,4,4,31,1,23,0,2,Budget Zone,Unfurnished,Standard,3713332.0,227.375,3,Old
+2319.0,6,5,33,1,4,1,1,Budget Zone,Unfurnished,Premium,9651700.0,210.8181818181818,3,Old
+1707.0,4,4,23,1,18,0,1,Family Zone,Fully Furnished,Luxury,11367964.0,213.375,2,Old
+1429.0,1,2,23,1,23,0,0,Developing Zone,Semi-Furnished,Standard,4308197.0,476.3333333333333,1,Old
+450.0,1,1,11,2,4,0,1,Family Zone,Semi-Furnished,Good,4843229.0,225.0,3,Mature
+450.0,1,1,28,2,18,1,2,Family Zone,Fully Furnished,Premium,4523796.0,225.0,5,Old
+1517.0,3,2,22,1,23,0,1,IT Hub,Unfurnished,Premium,10519755.0,303.4,2,Old
+1264.0,3,3,0,1,6,1,0,Budget Zone,Fully Furnished,Good,8760962.0,210.66666666666666,2,New
+875.0,2,2,29,2,14,0,0,IT Hub,Fully Furnished,Good,4616300.0,218.75,2,Old
+1484.0,3,4,12,2,20,0,0,Family Zone,Semi-Furnished,Premium,10503189.0,212.0,2,Mature
+1510.0,3,3,16,1,9,1,2,Budget Zone,Semi-Furnished,Premium,9148800.0,251.66666666666666,4,Mature
+1941.0,3,3,17,0,6,1,1,IT Hub,Fully Furnished,Standard,11423043.0,323.5,2,Mature
+1521.0,2,2,28,1,10,0,1,IT Hub,Semi-Furnished,Luxury,8909540.0,380.25,2,Old
+2089.0,6,5,9,2,9,1,1,Developing Zone,Semi-Furnished,Standard,11799066.0,189.9090909090909,4,Recent
+1454.0,2,2,13,1,18,0,0,Premium Central,Fully Furnished,Premium,11217984.0,363.5,1,Mature
+1390.0,3,2,1,1,9,0,1,Family Zone,Semi-Furnished,Standard,9337359.0,278.0,2,New
+2003.0,3,2,12,1,10,1,0,Family Zone,Unfurnished,Standard,9820653.0,400.6,2,Mature
+941.0,2,2,3,1,23,1,3,Premium Central,Unfurnished,Standard,9806617.0,235.25,5,New
+2914.0,5,5,20,1,14,0,0,Developing Zone,Unfurnished,Good,11312057.0,291.4,1,Mature
+1645.0,3,3,31,2,23,0,1,IT Hub,Semi-Furnished,Good,9616196.0,274.1666666666667,3,Old
+1648.0,4,3,16,1,18,1,0,Developing Zone,Semi-Furnished,Standard,9153053.0,235.42857142857142,2,Mature
+1723.0,4,4,31,1,22,0,2,IT Hub,Semi-Furnished,Good,9091038.0,215.375,3,Old
+2426.0,5,5,34,1,5,1,0,Family Zone,Semi-Furnished,Good,11903623.0,242.6,2,Old
+1862.0,2,3,1,2,23,1,3,Developing Zone,Fully Furnished,Premium,12992668.0,372.4,6,New
+615.0,3,2,18,1,23,1,0,Developing Zone,Fully Furnished,Premium,4612609.0,123.0,2,Mature
+2180.0,3,2,18,1,1,0,2,Developing Zone,Unfurnished,Premium,10861160.0,436.0,3,Mature
+1273.0,4,3,13,0,9,1,2,Budget Zone,Semi-Furnished,Standard,4643731.0,181.85714285714286,3,Mature
+1506.0,4,3,29,0,10,0,1,Budget Zone,Semi-Furnished,Good,5041548.0,215.14285714285714,1,Old
+785.0,2,2,13,1,11,0,1,Developing Zone,Semi-Furnished,Luxury,6961395.0,196.25,2,Mature
+1724.0,3,4,1,0,19,0,1,Budget Zone,Unfurnished,Standard,7196096.0,246.28571428571428,1,New
+1111.0,2,3,19,2,17,0,2,Budget Zone,Fully Furnished,Good,5211086.0,222.2,4,Mature
+1502.0,3,2,7,2,6,1,2,IT Hub,Fully Furnished,Luxury,14779255.0,300.4,5,Recent
+1302.0,3,2,12,0,15,1,0,IT Hub,Semi-Furnished,Luxury,11165519.0,260.4,1,Mature
+2451.0,4,4,17,2,24,1,1,IT Hub,Fully Furnished,Good,15716276.0,306.375,4,Mature
+2481.0,3,3,25,1,11,1,1,Developing Zone,Fully Furnished,Premium,11825503.0,413.5,3,Old
+1474.0,4,4,9,1,23,1,0,Premium Central,Semi-Furnished,Good,11644732.0,184.25,2,Recent
+1483.0,3,3,13,2,16,1,2,Family Zone,Semi-Furnished,Premium,11231778.0,247.16666666666666,5,Mature
+1256.0,2,2,2,1,23,1,1,Budget Zone,Semi-Furnished,Standard,6926936.0,314.0,3,New
+2025.0,4,4,13,0,22,1,1,Budget Zone,Fully Furnished,Standard,9585324.0,253.125,2,Mature
+1279.0,3,2,20,0,1,1,2,IT Hub,Unfurnished,Good,7417241.0,255.8,3,Mature
+1231.0,2,1,21,1,20,0,2,Budget Zone,Semi-Furnished,Standard,3222409.0,410.3333333333333,3,Old
+1959.0,2,2,10,2,5,1,2,Family Zone,Fully Furnished,Premium,14312098.0,489.75,5,Recent
+1170.0,3,3,2,1,20,0,0,Premium Central,Unfurnished,Good,9291016.0,195.0,1,New
+1430.0,3,3,20,1,20,0,3,Budget Zone,Fully Furnished,Premium,7877993.0,238.33333333333334,4,Mature
+628.0,1,1,22,0,7,1,1,Budget Zone,Semi-Furnished,Premium,2257028.0,314.0,2,Old
+1816.0,3,2,2,2,2,0,1,Premium Central,Fully Furnished,Good,14888147.0,363.2,3,New
+2459.0,5,5,17,1,11,0,0,Family Zone,Fully Furnished,Premium,15495593.0,245.9,1,Mature
+1825.0,3,4,3,1,8,0,2,Budget Zone,Semi-Furnished,Good,9020603.0,260.7142857142857,3,New
+2210.0,4,3,15,1,14,0,1,Premium Central,Fully Furnished,Good,17418613.0,315.7142857142857,2,Mature
+1010.0,2,2,22,1,2,1,2,Premium Central,Semi-Furnished,Standard,5109442.0,252.5,4,Old
+1573.0,4,4,25,0,2,1,2,Family Zone,Semi-Furnished,Premium,8860940.0,196.625,3,Old
+960.0,2,2,24,1,11,0,2,Family Zone,Semi-Furnished,Premium,5846621.0,240.0,3,Old
+1332.0,2,1,26,1,19,1,2,Developing Zone,Fully Furnished,Luxury,9997686.0,444.0,4,Old
+1852.0,5,4,8,1,8,1,3,Budget Zone,Unfurnished,Premium,9464483.0,205.77777777777777,5,Recent
+1503.0,3,3,29,2,8,1,1,Family Zone,Unfurnished,Luxury,10289006.0,250.5,4,Old
+715.0,2,3,12,0,4,0,1,Developing Zone,Semi-Furnished,Standard,4364239.0,143.0,1,Mature
+766.0,2,2,13,1,7,1,2,Family Zone,Semi-Furnished,Luxury,6983923.0,191.5,4,Mature
+732.0,1,1,27,0,8,0,1,IT Hub,Semi-Furnished,Good,3157036.0,366.0,1,Old
+1706.0,2,2,11,0,7,0,1,Budget Zone,Unfurnished,Good,6982886.0,426.5,1,Mature
+2523.0,5,5,2,1,9,1,2,Family Zone,Semi-Furnished,Good,14689856.0,252.3,4,New
+2158.0,4,3,25,1,7,0,1,Developing Zone,Fully Furnished,Good,9724007.0,308.2857142857143,2,Old
+464.0,1,1,23,1,17,1,2,IT Hub,Unfurnished,Good,4240917.0,232.0,4,Old
+2189.0,4,3,20,0,9,1,1,Developing Zone,Semi-Furnished,Standard,10084189.0,312.7142857142857,2,Mature
+1937.0,4,2,5,1,19,0,2,Family Zone,Fully Furnished,Standard,10860572.0,322.8333333333333,3,Recent
+646.0,1,1,22,1,15,0,0,Family Zone,Unfurnished,Good,2895549.0,323.0,1,Old
+1292.0,2,2,6,2,16,1,2,Developing Zone,Semi-Furnished,Premium,10119215.0,323.0,5,Recent
+2020.0,3,2,19,1,15,1,2,Family Zone,Unfurnished,Good,11507249.0,404.0,4,Mature
+1736.0,5,5,17,2,23,0,1,IT Hub,Fully Furnished,Good,11798611.0,173.6,3,Mature
+769.0,2,1,27,0,7,1,1,Family Zone,Semi-Furnished,Good,5083625.0,256.3333333333333,2,Old
+1768.0,2,3,34,1,24,1,1,IT Hub,Fully Furnished,Good,11701505.0,353.6,3,Old
+450.0,1,1,6,1,5,1,1,Premium Central,Unfurnished,Standard,4730732.0,225.0,3,Recent
+1334.0,3,2,4,1,4,0,1,Developing Zone,Semi-Furnished,Premium,7929136.0,266.8,2,Recent
+2042.0,4,4,19,1,20,1,0,Family Zone,Fully Furnished,Standard,10057366.0,255.25,2,Mature
+1460.0,2,2,33,1,22,1,2,Budget Zone,Unfurnished,Premium,5598257.0,365.0,4,Old
+1191.0,4,4,5,2,3,0,1,IT Hub,Unfurnished,Premium,10192593.0,148.875,3,Recent
+1912.0,4,5,17,0,15,1,1,Family Zone,Unfurnished,Good,9027405.0,212.44444444444446,2,Mature
+1957.0,4,4,14,2,13,1,1,Developing Zone,Fully Furnished,Premium,13014624.0,244.625,4,Mature
+2131.0,4,4,11,1,6,1,0,Budget Zone,Semi-Furnished,Good,11446386.0,266.375,2,Mature
+1905.0,4,3,23,1,13,1,0,Premium Central,Semi-Furnished,Premium,15290407.0,272.14285714285717,2,Old
+2012.0,4,4,10,1,17,1,3,Developing Zone,Semi-Furnished,Premium,11856952.0,251.5,5,Recent
+1831.0,3,4,17,1,14,1,2,IT Hub,Semi-Furnished,Premium,12756101.0,261.57142857142856,4,Mature
+1588.0,4,4,29,2,13,1,0,Budget Zone,Semi-Furnished,Premium,8234027.0,198.5,3,Old
+1497.0,2,1,13,2,22,0,2,Premium Central,Semi-Furnished,Premium,12391119.0,499.0,4,Mature
+1327.0,4,4,0,2,6,0,1,Budget Zone,Semi-Furnished,Luxury,10566127.0,165.875,3,New
+820.0,2,3,30,2,15,0,0,Developing Zone,Unfurnished,Good,3975549.0,164.0,2,Old
+953.0,3,4,9,1,8,1,2,IT Hub,Fully Furnished,Premium,10796133.0,136.14285714285714,4,Recent
+1303.0,2,2,27,1,24,0,1,Premium Central,Fully Furnished,Premium,8947797.0,325.75,2,Old
+1576.0,3,2,26,2,7,1,1,Developing Zone,Semi-Furnished,Good,8208657.0,315.2,4,Old
+2199.0,3,3,18,0,21,0,2,Family Zone,Semi-Furnished,Luxury,12556968.0,366.5,2,Mature
+1428.0,3,3,3,2,16,0,1,IT Hub,Unfurnished,Good,10413060.0,238.0,3,New
+1972.0,4,5,33,1,6,1,1,IT Hub,Fully Furnished,Good,13190736.0,219.11111111111111,3,Old
+2011.0,4,4,23,1,19,1,1,Developing Zone,Fully Furnished,Standard,10492013.0,251.375,3,Old
+1330.0,2,2,14,1,6,0,2,Family Zone,Fully Furnished,Standard,8699919.0,332.5,3,Mature
+1759.0,3,1,29,1,7,0,2,IT Hub,Semi-Furnished,Premium,10884927.0,439.75,3,Old
+1323.0,3,2,27,0,9,0,2,IT Hub,Unfurnished,Good,6660697.0,264.6,2,Old
+2138.0,4,4,26,1,17,0,1,IT Hub,Unfurnished,Good,11810481.0,267.25,2,Old
+1781.0,3,4,5,1,10,0,2,Family Zone,Unfurnished,Standard,8476544.0,254.42857142857142,3,Recent
+831.0,3,3,22,0,14,1,1,Budget Zone,Unfurnished,Good,4802432.0,138.5,2,Old
+1534.0,3,2,10,0,14,0,1,Premium Central,Unfurnished,Premium,11599915.0,306.8,1,Recent
+2307.0,5,5,2,1,5,0,0,IT Hub,Fully Furnished,Premium,17570315.0,230.7,1,New
+1356.0,2,1,11,1,6,0,2,IT Hub,Unfurnished,Standard,8438761.0,452.0,3,Mature
+1683.0,3,4,3,2,8,0,1,Budget Zone,Unfurnished,Good,7882526.0,240.42857142857142,3,New
+1734.0,3,3,3,0,6,1,2,Developing Zone,Fully Furnished,Good,9966788.0,289.0,3,New
+911.0,1,1,25,1,23,0,1,IT Hub,Semi-Furnished,Good,6392902.0,455.5,2,Old
+1716.0,4,4,17,0,10,0,0,Budget Zone,Fully Furnished,Good,7822512.0,214.5,0,Mature
+725.0,2,2,13,1,10,1,3,Premium Central,Semi-Furnished,Good,6798573.0,181.25,5,Mature
+1125.0,3,3,6,1,17,1,2,Developing Zone,Fully Furnished,Good,8166288.0,187.5,4,Recent
+2009.0,3,3,26,1,19,1,1,IT Hub,Semi-Furnished,Good,13140509.0,334.8333333333333,3,Old
+1636.0,3,3,22,1,17,1,2,Premium Central,Semi-Furnished,Good,13282379.0,272.6666666666667,4,Old
+1292.0,2,2,20,1,14,1,1,Developing Zone,Semi-Furnished,Good,5591926.0,323.0,3,Mature
+1682.0,4,4,6,0,24,1,2,Developing Zone,Semi-Furnished,Premium,12275255.0,210.25,3,Recent
+1419.0,3,3,4,1,22,1,0,Family Zone,Semi-Furnished,Premium,11329509.0,236.5,2,Recent
+1457.0,3,4,4,1,5,0,1,Family Zone,Semi-Furnished,Good,9471500.0,208.14285714285714,2,Recent
+1792.0,4,3,0,1,4,1,1,Developing Zone,Unfurnished,Premium,10378850.0,256.0,3,New
+1072.0,3,2,33,1,10,1,1,Family Zone,Fully Furnished,Premium,7541296.0,214.4,3,Old
+1471.0,3,3,12,1,21,1,1,Premium Central,Unfurnished,Standard,11245341.0,245.16666666666666,3,Mature
+1288.0,2,1,23,1,24,0,0,Family Zone,Unfurnished,Good,4256733.0,429.3333333333333,1,Old
+625.0,1,1,34,0,17,1,3,Developing Zone,Unfurnished,Good,1800000.0,312.5,4,Old
+971.0,1,1,32,1,17,0,0,Developing Zone,Fully Furnished,Premium,7296756.0,485.5,1,Old
+2265.0,5,5,11,0,6,1,0,Developing Zone,Semi-Furnished,Standard,11142852.0,226.5,1,Mature
+1650.0,3,3,17,1,15,0,1,Budget Zone,Semi-Furnished,Premium,7452726.0,275.0,2,Mature
+762.0,1,1,16,2,5,1,1,Budget Zone,Fully Furnished,Good,4222693.0,381.0,4,Mature
+649.0,1,1,1,1,13,1,0,IT Hub,Unfurnished,Good,7592945.0,324.5,2,New
+1392.0,2,2,26,1,5,0,1,Developing Zone,Fully Furnished,Luxury,8904384.0,348.0,2,Old
+2262.0,4,4,20,0,2,0,2,Premium Central,Semi-Furnished,Good,17217327.0,282.75,2,Mature
+1353.0,2,1,13,2,24,0,0,Developing Zone,Unfurnished,Premium,7690967.0,451.0,2,Mature
+2130.0,4,5,19,0,22,1,3,Budget Zone,Semi-Furnished,Luxury,12527717.0,236.66666666666666,4,Mature
+1633.0,3,3,25,1,17,1,1,IT Hub,Fully Furnished,Premium,10709864.0,272.1666666666667,3,Old
+1695.0,5,5,0,2,16,1,2,Premium Central,Unfurnished,Standard,14764352.0,169.5,5,New
+755.0,2,3,22,1,6,0,0,Developing Zone,Semi-Furnished,Premium,5004348.0,151.0,1,Old
+1938.0,3,2,30,0,14,1,2,Developing Zone,Unfurnished,Standard,8323802.0,387.6,3,Old
+1276.0,3,2,25,1,18,1,2,Developing Zone,Semi-Furnished,Good,6686159.0,255.2,4,Old
+1899.0,3,2,21,1,13,0,0,Family Zone,Semi-Furnished,Premium,9779935.0,379.8,1,Old

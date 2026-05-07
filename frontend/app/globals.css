@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  color: #172033;
+  background:
+    radial-gradient(circle at 8% 8%, rgba(255, 186, 214, .55), transparent 26%),
+    radial-gradient(circle at 86% 12%, rgba(186, 230, 253, .70), transparent 30%),
+    radial-gradient(circle at 50% 90%, rgba(187, 247, 208, .58), transparent 34%),
+    linear-gradient(135deg, #fff7ed 0%, #fdf2f8 28%, #eff6ff 58%, #ecfdf5 100%);
+}
+.light-card {
+  background: rgba(255, 255, 255, .74);
+  border: 1px solid rgba(255, 255, 255, .92);
+  backdrop-filter: blur(22px);
+  box-shadow: 0 24px 70px rgba(37, 99, 235, .13), 0 8px 24px rgba(236, 72, 153, .08);
+}
+.soft-card {
+  background: linear-gradient(135deg, rgba(255,255,255,.92), rgba(255,255,255,.62));
+  border: 1px solid rgba(255,255,255,.95);
+  box-shadow: 0 18px 42px rgba(15, 23, 42, .08);
+}
+.input {
+  width: 100%;
+  border-radius: 1rem;
+  background: rgba(255,255,255,.86);
+  border: 1px solid rgba(148,163,184,.34);
+  padding: .78rem 1rem;
+  outline: none;
+  color: #0f172a;
+}
+.input:focus {
+  border-color: rgba(14,165,233,.85);
+  box-shadow: 0 0 0 4px rgba(14,165,233,.16);
+}
+.badge {
+  border: 1px solid rgba(255,255,255,.88);
+  background: rgba(255,255,255,.62);
+  border-radius: 999px;
+  padding: .38rem .78rem;
+  box-shadow: 0 8px 20px rgba(15,23,42,.06);
+}
+.gradient-title {
+  background: linear-gradient(90deg, #0f766e, #2563eb, #db2777, #f97316);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.tab-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  border-radius: 999px;
+  padding: .78rem 1.05rem;
+  font-weight: 800;
+  color: #475569;
+  transition: all .25s ease;
+}
+.tab-btn:hover {
+  background: rgba(255,255,255,.8);
+  transform: translateY(-1px);
+}
+.tab-active {
+  color: white;
+  background: linear-gradient(90deg, #0ea5e9, #14b8a6, #ec4899);
+  box-shadow: 0 16px 30px rgba(14,165,233,.22);
+}
